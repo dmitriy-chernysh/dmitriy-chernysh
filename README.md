@@ -5,6 +5,8 @@ My name is Dmitri
 I'm experienced Mobile App Develiper from Ukraine.  
 Since 2015 I've been creating native mobile apps for Android devices.  
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-chernysh&hide=JavaScript,CSS,Shell)
+
 - ⚡ 7 apps from scratch are live:
     - [COVID-19 Live Tracker WorldWide](https://github.com/dmitriy-chernysh/covid-19-tracker-android) (pet project, open source)
     - [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) 
@@ -33,7 +35,6 @@ Since 2015 I've been creating native mobile apps for Android devices.
     
    
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriy-chernysh&theme=default&show_icons=true&count_private=true) 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-chernysh&hide=JavaScript,CSS,Shell)
 
 
 <!--
