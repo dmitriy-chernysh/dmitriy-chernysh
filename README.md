@@ -5,7 +5,8 @@ My name is Dmitri
 I'm experienced Mobile App Develiper from Ukraine.  
 Since 2015 I've been creating native mobile apps for Android devices.  
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-chernysh&hide=JavaScript,CSS,Shell)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-chernysh&hide=JavaScript,CSS,Shell&layout=compact)
+
 
 - ⚡ 7 apps from scratch are live:
     - [COVID-19 Live Tracker WorldWide](https://github.com/dmitriy-chernysh/covid-19-tracker-android) (pet project, open source)
@@ -33,9 +34,7 @@ Since 2015 I've been creating native mobile apps for Android devices.
    [Linkedin](https://www.linkedin.com/in/dmitriychernysh/) | 
    [www.mobile-dev.pro](www.mobile-dev.pro)
     
-   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriy-chernysh&theme=default&show_icons=true&count_private=true) 
-
 
 <!--
 **dmitriy-chernysh/dmitriy-chernysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
