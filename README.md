@@ -17,9 +17,12 @@ Since 2015 I've been creating native mobile apps for Android devices.
     - Improving apps I've mentioned above.
     - [MVVM-Clean Template for Android apps](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
     <!-- - A new one pet project - app to create mockups by adding a device frame to videos ([mockup example](https://www.instagram.com/p/CHsfEEXAV5J/)) -->
-    - Growing my Instagram account.
+    - Growing my [Instagram account](instagr.am/mobiledevpro) about AndroidDev.
     
-- 🌱 I’m currently learning: Kotlin, ASO, Instagram marketing.  
+- 🌱 I’m currently learning: 
+   - Kotlin.
+   - ASO.
+   - Instagram marketing.  
     
 - 📫 How to reach me:  
    [Instagram](instagr.am/mobiledevpro) | 
@@ -28,11 +31,8 @@ Since 2015 I've been creating native mobile apps for Android devices.
    [www.mobile-dev.pro](www.mobile-dev.pro)
     
     
-    
-    
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriy-chernysh&theme=default&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-chernysh)
+![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriy-chernysh&theme=default&show_icons=true&count_private=true)
 
 <!--
 **dmitriy-chernysh/dmitriy-chernysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
