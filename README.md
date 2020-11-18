@@ -2,8 +2,8 @@
 
 My name is Dmitri  
   
-I'm experienced Mobile App Develiper from Ukraine.  
-Since 2015 I've been creating native mobile apps for Android devices.  
+I'm experienced Mobile App Developer from Ukraine.  
+Since 2015 I've been creating native apps for Android devices.  
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-chernysh&hide=JavaScript,CSS,Shell&layout=compact)
 
