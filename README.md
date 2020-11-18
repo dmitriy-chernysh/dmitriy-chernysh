@@ -21,7 +21,7 @@ Since 2015 I've been creating native mobile apps for Android devices.
     - Improving apps I've mentioned above.
     - [MVVM-Clean Template for Android apps](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
     <!-- - A new one pet project - app to create mockups by adding a device frame to videos ([mockup example](https://www.instagram.com/p/CHsfEEXAV5J/)) -->
-    - Growing my [Instagram account](instagr.am/mobiledevpro) about AndroidDev.
+    - Growing my [Instagram account](instagram.com/mobiledevpro/) about AndroidDev.
     
 - 🌱 I’m currently learning: 
    - Kotlin.
@@ -29,7 +29,7 @@ Since 2015 I've been creating native mobile apps for Android devices.
    - Instagram marketing.  
     
 - 📫 How to reach me:  
-   [Instagram](instagr.am/mobiledevpro) | 
+   [Instagram](instagram.com/mobiledevpro/) | 
    [Twitter](https://twitter.com/mobiledev_pro) | 
    [Linkedin](https://www.linkedin.com/in/dmitriychernysh/) | 
    [www.mobile-dev.pro](www.mobile-dev.pro)
