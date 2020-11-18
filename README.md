@@ -31,7 +31,7 @@ Since 2015 I've been creating native mobile apps for Android devices.
    [www.mobile-dev.pro](www.mobile-dev.pro)
     
     
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-chernysh)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-chernysh&hide=JavaScript,CSS)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriy-chernysh&theme=default&show_icons=true&count_private=true)
 
 <!--
