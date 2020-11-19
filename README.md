@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dmitri  
+My name is Dmitriy  
   
 I'm a Mobile App Developer from Ukraine.  
 Since 2015 I've been creating native apps for Android devices.  
