@@ -2,19 +2,19 @@
 
 My name is Dmitri  
   
-I'm experienced Mobile App Developer from Ukraine.  
+I'm Mobile App Developer from Ukraine.  
 Since 2015 I've been creating native apps for Android devices.  
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-chernysh&hide=JavaScript,CSS,Shell&layout=compact)
 
 
 - ⚡ 7 apps from scratch are live:
-    - [COVID-19 Live Tracker WorldWide](https://github.com/dmitriy-chernysh/covid-19-tracker-android) (pet project, open source)
     - [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) 
     - [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new)
     - [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite)
     - [Real Estate Vids](https://play.google.com/store/apps/details?id=com.lesa.realestate)
     - [QR Barcode reader](https://play.google.com/store/apps/details?id=com.mobiledevpro.barcodescanner) (pet project)
+    - [COVID-19 Live Tracker WorldWide](https://github.com/dmitriy-chernysh/covid-19-tracker-android) (pet project, open source)
   
 
 - 🔭 I’m currently working on:
