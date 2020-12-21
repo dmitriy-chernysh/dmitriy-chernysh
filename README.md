@@ -5,6 +5,8 @@ My name is Dmitriy
 I'm a Mobile App Developer from Ukraine.  
 Since 2015 I've been creating native apps for Android devices.  
 
+:boom: Currently working on [Chat App from Scratch (Open Source)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template) and posting progress to my [Instagram stories](https://www.instagram.com/mobiledevpro/) .
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-chernysh&hide=JavaScript,CSS,Shell&layout=compact)
 
 
@@ -19,9 +21,9 @@ Since 2015 I've been creating native apps for Android devices.
 
 - 🔭 I’m currently working on:
     - Improving apps I've mentioned above.
-    - [MVVM-Clean Template for Android apps](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
+    - [CHAT APP | MVVM-Clean Template for Android apps](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
     <!-- - A new one pet project - app to create mockups by adding a device frame to videos ([mockup example](https://www.instagram.com/p/CHsfEEXAV5J/)) -->
-    - Growing my [Instagram account](https://www.instagram.com/mobiledevpro/) about AndroidDev.
+    <!-- Growing my [Instagram account](https://www.instagram.com/mobiledevpro/) about AndroidDev. -->
     
 - 🌱 I’m currently learning: 
    - Kotlin.
