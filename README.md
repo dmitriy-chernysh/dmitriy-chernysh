@@ -5,12 +5,12 @@ My name is Dmitriy
 I'm a Mobile App Developer from Ukraine.  
 Since 2015 I've been creating native apps for Android devices.  
 
-:boom: Currently working on [Chat App from Scratch (Open Source)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template) and posting progress to my [Instagram stories](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODg2ODQ0MTM4ODQ5Mjgz?igshid=1utuarch219nk) .
+:boom: Currently working on [Chat App from Scratch (Template)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template) and posting progress to my [Instagram stories](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODg2ODQ0MTM4ODQ5Mjgz?igshid=1utuarch219nk) .
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-chernysh&hide=JavaScript,CSS,Shell&layout=compact)
 
 
-- ⚡ 7 apps from scratch are live:
+- ⚡ 6 apps from scratch are in Live:
     - [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) 
     - [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new)
     - [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite)
@@ -21,7 +21,7 @@ Since 2015 I've been creating native apps for Android devices.
 
 - 🔭 I’m currently working on:
     - Improving apps I've mentioned above.
-    - [CHAT APP | MVVM-Clean Template for Android apps](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
+    - [CHAT APP | MVVM + Clean Architecture | Android App | Template](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
     <!-- - A new one pet project - app to create mockups by adding a device frame to videos ([mockup example](https://www.instagram.com/p/CHsfEEXAV5J/)) -->
     <!-- Growing my [Instagram account](https://www.instagram.com/mobiledevpro/) about AndroidDev. -->
     
