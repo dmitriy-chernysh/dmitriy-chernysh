@@ -31,10 +31,10 @@ Since 2015 I've been creating native apps for Android devices.
    - Instagram marketing.  
     
 - 📫 How to reach me:  
-   [Instagram](https://www.instagram.com/mobiledevpro/) | 
-   [Twitter](https://twitter.com/mobiledev_pro) | 
-   [Linkedin](https://www.linkedin.com/in/dmitriychernysh/) | 
-   [www.mobile-dev.pro](http://www.mobile-dev.pro)
+   
+   [![Web](https://img.shields.io/badge/-web-grey?logo=appveyor)](http://mobile-dev.pro/)
+   [![Instagram](https://img.shields.io/badge/-instagram-grey?logo=instagram)](https://www.instagram.com/mobiledevpro/)
+   [![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/dmitriychernysh/)
     
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriy-chernysh&theme=default&show_icons=true&count_private=true) 
 
