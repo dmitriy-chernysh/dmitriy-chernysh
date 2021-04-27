@@ -5,7 +5,7 @@ My name is Dmitriy
 I'm a Software Developer from Ukraine.  
 Since 2015 I've been creating native apps for Android devices. 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-chernysh&hide=JavaScript,CSS,Shell&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-chernysh&hide=HTML,JavaScript,CSS,Shell&layout=compact)
 
 
 - ⚡ 6 apps from scratch are in Live:
@@ -36,7 +36,7 @@ Since 2015 I've been creating native apps for Android devices.
    [![Instagram](https://img.shields.io/badge/-instagram-grey?logo=instagram)](https://www.instagram.com/mobiledevpro/)
    [![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/dmitriychernysh/)
     
-![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriy-chernysh&theme=default&show_icons=true&count_private=true) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriy-chernysh&theme=prussian&show_icons=true&count_private=false) 
 
 <!--
 **dmitriy-chernysh/dmitriy-chernysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
