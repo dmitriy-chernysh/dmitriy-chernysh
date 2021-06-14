@@ -28,7 +28,7 @@ Since 2015 I've been creating native apps for Android devices.
    - Python
    - Crypto Trading automation
    - Instagram marketing
-   - ASO
+   - ASO - App Store Optimization
     
 - 📫 How to reach me:  
    
