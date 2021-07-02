@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
 My name is Dmitriy  
   
@@ -26,9 +26,9 @@ Since 2015 I've been creating native apps for Android devices.
     
 - 🌱 I’m currently learning: 
    - Python
-   - Crypto Trading automation
+   - Trading automation
    - Instagram marketing
-   - ASO - App Store Optimization
+   - ASO (App Store Optimization)
     
 - 📫 How to reach me:  
    
