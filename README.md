@@ -1,6 +1,4 @@
 ### Hey 👋
-
-My name is Dmitriy  
   
 I'm a Software Developer from Ukraine.  
 Since 2015 I've been creating native apps for Android devices. 
