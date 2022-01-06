@@ -3,7 +3,7 @@
 I'm a Software Developer from Ukraine.  
 Since 2015 I've been creating native apps for Android devices. 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-chernysh&hide=HTML,JavaScript,CSS,Shell&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-chernysh&hide=HTML,JavaScript,CSS,Shell&layout=compact&&theme=dracula)
 
 
 - ⚡ 6 apps from scratch are in Live:
@@ -13,28 +13,30 @@ Since 2015 I've been creating native apps for Android devices.
     - [Real Estate Vids](https://play.google.com/store/apps/details?id=com.lesa.realestate)
     - [QR Barcode reader](https://play.google.com/store/apps/details?id=com.mobiledevpro.barcodescanner) (pet project)
     - [COVID-19 Live Tracker WorldWide](https://github.com/dmitriy-chernysh/covid-19-tracker-android) (pet project, open source)
-  
 
-- 🔭 I’m currently working on:
-    - Long-term client's projects
-    - My own Crypto Trading bot
+- 🔭 Working on:
+    - Long-term freelance projects
     - Open source [CHAT APP | Android App | Template](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
     <!-- - A new one pet project - app to create mockups by adding a device frame to videos ([mockup example](https://www.instagram.com/p/CHsfEEXAV5J/)) -->
     <!-- Growing my [Instagram account](https://www.instagram.com/mobiledevpro/) about AndroidDev. -->
     
-- 🌱 I’m currently learning: 
-   - Python
-   - Trading automation
+- 🌱 Learning: 
+   - Algorythmic Trading
    - Instagram marketing
-   - ASO (App Store Optimization)
+   - App Store Optimization (ASO)
     
-- 📫 How to reach me:  
+- 📫 Reach me:  
    
-   [![Web](https://img.shields.io/badge/-web-grey?logo=appveyor)](http://mobile-dev.pro/)
-   [![Instagram](https://img.shields.io/badge/-instagram-grey?logo=instagram)](https://www.instagram.com/mobiledevpro/)
-   [![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/dmitriychernysh/)
+   [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/dmitriychernysh/)
+   [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=instagram&label=mobiledevpro&style=for-the-badge)](https://www.instagram.com/mobiledevpro/)
+   [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&message=twitter&label=mobiledev_pro)](https://www.linkedin.com/in/dmitriychernysh/)
+   [![Web Page](https://img.shields.io/badge/-more-4285F4?&style=for-the-badge&label=mobile-dev.pro&logo=googlechrome)](https://www.mobile-dev.pro/)
+
+
+   [![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=hire+me+on&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
+   
     
-![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriy-chernysh&theme=prussian&show_icons=true&count_private=true) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriy-chernysh&theme=dracula&show_icons=true&count_private=true) 
 
 <!--
 **dmitriy-chernysh/dmitriy-chernysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
