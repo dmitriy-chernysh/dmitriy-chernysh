@@ -27,10 +27,10 @@ Since 2015 I've been creating native apps for Android devices.
     
 - 📫 Reach me:  
    
-   [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/dmitriychernysh/)
-   [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=instagram&label=mobiledevpro&style=for-the-badge)](https://www.instagram.com/mobiledevpro/)
-   [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&message=twitter&label=mobiledev_pro)](https://www.linkedin.com/in/dmitriychernysh/)
-   [![Web Page](https://img.shields.io/badge/-more-4285F4?&style=for-the-badge&label=mobile-dev.pro&logo=googlechrome)](https://www.mobile-dev.pro/)
+   [![Web Page](https://img.shields.io/badge/-4285F4?&style=for-the-badge&label=www.mobile-dev.pro&logo=googlechrome&logoColor=white)](https://www.mobile-dev.pro/)
+   [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=dev+stories+on&label=dev+stories+on&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
+   [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&message=twitter&logoColor=white)](https://twitter.com/mobiledev_pro)
+   [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/dmitriychernysh/)
 
 
    [![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=hire+me+on&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
