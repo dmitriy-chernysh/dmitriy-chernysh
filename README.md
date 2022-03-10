@@ -1,10 +1,20 @@
 ### Hey 👋
   
-I'm a Software Developer from Ukraine.  
-Since 2015 I've been creating native apps for Android devices. 
+I'm a Software Developer from Ukraine with over 6 years of experience in Android Development and more than 10 years experience in software development overall.
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-chernysh&hide=HTML,JavaScript,CSS,Shell&layout=compact&&theme=dracula)
+Since 2015 I've been creating native apps for Android devices.
 
+In 2022 my tech. stack is: 
+
+* Kotlin, RxJava/RxKotlin, Koin, Retrofit, Room database;
+* AndroidX, MVVM pattern, Single Activity architecture + Dynamic Feature modules with clean architecture inside;
+* Material 3 Design patterns;
+* Following best practices in Modern App Development.
+
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=dev+stories+on&label=sharing+my+work+on&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
+   
+[![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Top+Rated%2b+Developer+on&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
+ 
 
 - ⚡ 6 apps from scratch are in Live:
     - [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) 
@@ -25,17 +35,17 @@ Since 2015 I've been creating native apps for Android devices.
    - Instagram marketing
    - App Store Optimization (ASO)
     
-- 📫 Reach me:  
+- 📫 Reach me at:  
    
-   [![Web Page](https://img.shields.io/badge/-4285F4?&style=for-the-badge&label=www.mobile-dev.pro&logo=googlechrome&logoColor=white)](https://www.mobile-dev.pro/)
-   [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=dev+stories+on&label=dev+stories+on&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
-   [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&message=twitter&logoColor=white)](https://twitter.com/mobiledev_pro)
-   [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/dmitriychernysh/)
-
-
-   [![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=hire+me+on&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
+  <!--[![Web Page](https://img.shields.io/badge/-4285F4?&style=for-the-badge&label=www.mobile-dev.pro&logo=googlechrome&logoColor=white)](https://www.mobile-dev.pro/)-->
+     [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/dmitriychernysh/)
+     [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&message=twitter&logoColor=white)](https://twitter.com/mobiledev_pro)
+ 
+ 
+ 
    
-    
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-chernysh&hide=HTML,JavaScript,CSS,Shell&layout=compact&&theme=dracula)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriy-chernysh&theme=dracula&show_icons=true&count_private=true) 
 
 <!--
