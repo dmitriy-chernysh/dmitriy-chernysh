@@ -4,17 +4,37 @@ I'm a Software Developer from Ukraine with over 6 years of experience in Android
 
 Since 2015 I've been creating native apps for Android devices.
 
-In 2022 my tech. stack is: 
+In 2022 my tech. stack: 
 
-* Kotlin, RxJava/RxKotlin, Koin, Retrofit, Room database;
-* AndroidX, MVVM pattern, Single Activity architecture + Dynamic Feature modules with clean architecture inside;
-* Material 3 Design patterns;
+* Kotlin, RxJava/RxKotlin, Koin, Retrofit, Room.
+* DataBinding, LiveData, AndroidX Navigation components.
+* MVVM pattern + Clean architecture.
+* Modularisation.
+* Dynamic Feature delivery.
+* Material 3 Design patterns.
 * Following best practices in Modern App Development.
 
+
 [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=dev+stories+on&label=sharing+my+work+on&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
-   
-[![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Top+Rated%2b+Developer+on&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
+  
+
+Some feedback:
+
+⭐️⭐️⭐️⭐️⭐️ "I found Dmitriy on the Upwork search page. I really impressed how professional he handle whole process of my project development. No communication issues and very intuitive developer. I would highly recommend Dmitriy to anyone else out there who looks for a Android Development."
+
+⭐️⭐️⭐️⭐️⭐️ "Dmitri is great to work with. He works fast and his work is great, plus he's really good about communicating."
+
+⭐️⭐️⭐️⭐️⭐️ "Dmitri always does quality work, with attention to details and great communication. He's and Android Pro, highly recommend!"
+
+⭐️⭐️⭐️⭐️⭐️ "Dima is a pleasure to work with. He's Android programming skills are exceptional. He's always professional and easy to work with. He is very methodical in his approach. Which at times has resulted in delivery scheduling slipping a little but I rather have a good product than a hastily put together product. We're continuing to work with Dima for other projects."
+
+⭐️⭐️⭐️⭐️⭐️ "I've been extremely pleased with Dmitri's development skills, communication, and personality."
+
+⭐️⭐️⭐️⭐️⭐️ "Really great experience working with Dmitriy. I've struggled to find an Android developer in the past that was both skilled and had good communication - Dmitriy has both. I'm planning on continuing to work with him on new features for my app in the future."
+
+⭐️⭐️⭐️⭐️⭐️ "Great developer, that provides his service on the very high level. Recommend to anyone who needs high-quality​ software development."
  
+[![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Top+Rated%2b+Developer+on&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
 
 - ⚡ 6 apps from scratch are in Live:
     - [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) 
@@ -27,6 +47,7 @@ In 2022 my tech. stack is:
 - 🔭 Working on:
     - Long-term freelance projects
     - Open source [CHAT APP | Android App | Template](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
+    - Stock Price Alerter Android app
     <!-- - A new one pet project - app to create mockups by adding a device frame to videos ([mockup example](https://www.instagram.com/p/CHsfEEXAV5J/)) -->
     <!-- Growing my [Instagram account](https://www.instagram.com/mobiledevpro/) about AndroidDev. -->
     
