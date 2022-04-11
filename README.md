@@ -20,13 +20,13 @@ In 2022 my tech. stack:
 
 Some feedback:
 
-⭐️⭐️⭐️⭐️⭐️ "I found Dmitriy on the Upwork search page. I really impressed how professional he handle whole process of my project development. No communication issues and very intuitive developer. I would highly recommend Dmitriy to anyone else out there who looks for a Android Development."
-
 ⭐️⭐️⭐️⭐️⭐️ "Dmitri is great to work with. He works fast and his work is great, plus he's really good about communicating."
 
 ⭐️⭐️⭐️⭐️⭐️ "Dmitri always does quality work, with attention to details and great communication. He's and Android Pro, highly recommend!"
 
 ⭐️⭐️⭐️⭐️⭐️ "Dima is a pleasure to work with. He's Android programming skills are exceptional. He's always professional and easy to work with. He is very methodical in his approach. Which at times has resulted in delivery scheduling slipping a little but I rather have a good product than a hastily put together product. We're continuing to work with Dima for other projects."
+
+⭐️⭐️⭐️⭐️⭐️ "I found Dmitriy on the Upwork search page. I really impressed how professional he handle whole process of my project development. No communication issues and very intuitive developer. I would highly recommend Dmitriy to anyone else out there who looks for a Android Development."
 
 ⭐️⭐️⭐️⭐️⭐️ "I've been extremely pleased with Dmitri's development skills, communication, and personality."
 
