@@ -7,11 +7,10 @@ Since 2015 I've been creating native apps for Android devices.
 In 2022 my tech. stack: 
 
 * Kotlin, RxJava/RxKotlin, Koin, Retrofit, Room.
-* DataBinding, LiveData, AndroidX Navigation components.
+* DataBinding, LiveData, Jetpack Navigation conponents.
 * MVVM pattern + Clean architecture.
-* Modularisation.
-* Dynamic Feature delivery.
-* Material 3 Design patterns.
+* Modularisation with a Dynamic Feature delivery.
+* Material 3 Design.
 * Following best practices in Modern App Development.
 
 
