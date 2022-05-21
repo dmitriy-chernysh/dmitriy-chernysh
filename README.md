@@ -1,6 +1,6 @@
 ### Hey 👋
   
-I'm a Software Developer from Ukraine with over 6 years of experience in Android Development and more than 10 years experience in software development overall.
+I'm a Software Developer from Ukraine with over 6 years of experience in Android Development and more than 10 years of experience in software development overall.
 
 Since 2015 I've been creating native apps for Android devices.
 
@@ -41,7 +41,7 @@ Some feedback:
     - [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite)
     - [Real Estate Vids](https://play.google.com/store/apps/details?id=com.lesa.realestate)
     - [QR Barcode reader](https://play.google.com/store/apps/details?id=com.mobiledevpro.barcodescanner)
-    - [COVID-19 Live Tracker WorldWide](https://github.com/dmitriy-chernysh/covid-19-tracker-android)
+    - [COVID-19 Live Tracker WorldWide (open source)](https://github.com/dmitriy-chernysh/covid-19-tracker-android)
     - [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/)
 
 - 🔭 Working on:
