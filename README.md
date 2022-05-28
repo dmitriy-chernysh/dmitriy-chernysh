@@ -45,9 +45,9 @@ Some feedback:
     - [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/)
 
 - 🔭 Working on:
+    - Ktor Server for algo trading automation
     - Long-term freelance projects
     - Open source [CHAT APP | Android App | Template](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
-    - Algo Trading automation.
     <!-- - A new one pet project - app to create mockups by adding a device frame to videos ([mockup example](https://www.instagram.com/p/CHsfEEXAV5J/)) -->
     <!-- Growing my [Instagram account](https://www.instagram.com/mobiledevpro/) about AndroidDev. -->
    
