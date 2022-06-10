@@ -17,7 +17,7 @@ In 2022 my tech. stack:
 [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=dev+stories+on&label=sharing+my+journey+on&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
   
 
-Some feedback:
+Some feedback from my clients:
 
 ⭐️⭐️⭐️⭐️⭐️ "Dmitri is great to work with. He works fast and his work is great, plus he's really good about communicating."
 
