@@ -45,7 +45,7 @@ Some feedback from my clients:
     - [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/)
 
 - 🔭 Working on:
-    - [Ktor Server for algo trading automation](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTU0OTM1ODEwODI5NzA5?story_media_id=2842375384761903560_7149264187&igshid=MDJmNzVkMjY=)
+    - [Ktor Server for trading bot](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTU0OTM1ODEwODI5NzA5?story_media_id=2842375384761903560_7149264187&igshid=MDJmNzVkMjY=)
     - Long-term freelance projects
     - Open source [CHAT APP | Android App | Template](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
     <!-- - A new one pet project - app to create mockups by adding a device frame to videos ([mockup example](https://www.instagram.com/p/CHsfEEXAV5J/)) -->
