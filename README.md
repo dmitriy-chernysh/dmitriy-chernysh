@@ -14,7 +14,7 @@ In 2022 my tech. stack:
 * Following best practices in Modern App Development.
 
 
-[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=dev+stories+on&label=sharing+my+journey+on&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=dev+stories+on&label=behind+the+scenes+on&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
   
 
 Some feedback from my clients:
@@ -45,7 +45,7 @@ Some feedback from my clients:
     - [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/)
 
 - 🔭 Working on:
-    - [Ktor Server for trading bot](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTU0OTM1ODEwODI5NzA5?story_media_id=2842375384761903560_7149264187&igshid=MDJmNzVkMjY=)
+    - [API Server for trading bot app | Ktor + Heroku](https://github.com/mobiledevpro/Stock-Price-Alerter-Server)
     - Long-term freelance projects
     - Open source [CHAT APP | Android App | Template](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
     <!-- - A new one pet project - app to create mockups by adding a device frame to videos ([mockup example](https://www.instagram.com/p/CHsfEEXAV5J/)) -->
