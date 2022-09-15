@@ -14,7 +14,7 @@ In 2022 my tech. stack:
 * Following best practices in Modern App Development.
 
 
-[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=dev+stories+on&label=behind+the+scenes+on&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=sharing+useful+insights+on&label=follow+my+stories+on&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
   
 
 Some feedback from my clients:
@@ -33,7 +33,7 @@ Some feedback from my clients:
 
 ⭐️⭐️⭐️⭐️⭐️ "Great developer, that provides his service on the very high level. Recommend to anyone who needs high-quality​ software development."
  
-[![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Top+Rated%2b+Developer+on&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
+[![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Hire+me&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
 
 - ⚡ 7 apps from scratch:
     - [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) 
