@@ -14,7 +14,7 @@ In 2022 my tech. stack:
 * Following best practices in Modern App Development.
 
 
-[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=sharing+useful+insights+on&label=follow+my+stories+on&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=sharing+useful+insights+to&label=sharing+useful+insights+to&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
   
 
 Some feedback from my clients:
