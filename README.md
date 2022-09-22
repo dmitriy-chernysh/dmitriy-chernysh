@@ -14,7 +14,7 @@ In 2022 my tech. stack:
 * Following best practices in Modern App Development.
 
 
-[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=sharing+useful+insights+to&label=sharing+useful+insights+to&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=sharing+my+insights+to&label=sharing+useful+insights+to&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
   
 
 Some feedback from clients I've been working with:
@@ -33,7 +33,7 @@ Some feedback from clients I've been working with:
 
 ⭐️⭐️⭐️⭐️⭐️ "Great developer, that provides his service on the very high level. Recommend to anyone who needs high-quality​ software development."
  
-[![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Hire+me&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
+[![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Work+with+me+on&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
 
 - ⚡ 7 apps from scratch:
     - [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) 
@@ -57,6 +57,7 @@ Some feedback from clients I've been working with:
   <!--[![Web Page](https://img.shields.io/badge/-4285F4?&style=for-the-badge&label=www.mobile-dev.pro&logo=googlechrome&logoColor=white)](https://www.mobile-dev.pro/)-->
      [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/dmitriychernysh/)
      [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&message=twitter&logoColor=white)](https://twitter.com/mobiledev_pro)
+     [![Medium](https://img.shields.io/badge/-medium-212121?logo=medium&style=for-the-badge&logoColor=white)](https://medium.com/@mobiledevpro)
  
  
  
