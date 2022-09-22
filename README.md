@@ -7,7 +7,7 @@ Since 2015 I've been creating native apps for Android devices.
 In 2022 my tech. stack: 
 
 * Kotlin, Coroutines, RxJava/RxAndroid, Koin, Retrofit, Room.
-* DataBinding, LiveData, Jetpack Navigation conponents.
+* DataBinding/ViewBinding, LiveData, Jetpack Navigation components.
 * MVVM pattern + Clean architecture.
 * Modularisation with a Dynamic Feature delivery.
 * Material 3 Design.
@@ -17,7 +17,7 @@ In 2022 my tech. stack:
 [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=sharing+useful+insights+to&label=sharing+useful+insights+to&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
   
 
-Some feedback from my clients:
+Some feedback from clients I've been working with:
 
 ⭐️⭐️⭐️⭐️⭐️ "Dmitri is great to work with. He works fast and his work is great, plus he's really good about communicating."
 
