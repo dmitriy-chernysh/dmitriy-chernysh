@@ -6,7 +6,7 @@ Since 2015 I've been creating native apps for Android devices.
 
 In 2022 my tech. stack: 
 
-* Kotlin, RxJava/RxKotlin, Koin, Retrofit, Room.
+* Kotlin, Coroutines, RxJava/RxAndroid, Koin, Retrofit, Room.
 * DataBinding, LiveData, Jetpack Navigation conponents.
 * MVVM pattern + Clean architecture.
 * Modularisation with a Dynamic Feature delivery.
