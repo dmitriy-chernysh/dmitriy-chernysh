@@ -45,9 +45,9 @@ Some feedback from clients I've been working with:
     - [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/)
 
 - 🔭 Working on:
-    - [API Server for trading bot app | Ktor + Heroku](https://github.com/mobiledevpro/Stock-Price-Alerter-Server)
+    - [Ticker Alerter App to getting trading alerts](https://www.instagram.com/tickeralerter.app/)
     - Long-term freelance projects
-    - Open source [CHAT APP | Android App | Template](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
+    - Open source [Android App Template | Kotlin | MVVM + Clean architecture](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
     <!-- - A new one pet project - app to create mockups by adding a device frame to videos ([mockup example](https://www.instagram.com/p/CHsfEEXAV5J/)) -->
     <!-- Growing my [Instagram account](https://www.instagram.com/mobiledevpro/) about AndroidDev. -->
    
