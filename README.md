@@ -1,8 +1,15 @@
-### Hey 👋
-  
-I'm a Software Developer from Ukraine with over 6 years of experience in Android Development and more than 10 years of experience in software development overall.
+   
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriy-chernysh&theme=dracula&show_icons=true&count_private=true) -->
 
-Since 2015 I've been creating native apps for Android devices.
+### Welcome to my profile 👋 
+  
+⚡️ I'm a Software Engineer from Ukraine with over 10 years of experience in software development and a Top-Rated freelance Developer on Upwork since 2016.
+
+⚡️ Last 7 years I'm dealing mostly with Android Development and have been building modern [native] apps for devices running on Android OS from version 6 <sup>Marshmallow</sup> to 13 <sup>Tiramisu</sup> . It covers about ~96.2% of all android devices nowdays.
+
+Despite the war between Ukraine and Russia and some issues with electricity after Russia's missile attacks, I'm still continue working from a safe place with autonomous power supply.
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-chernysh&hide=HTML,JavaScript,CSS,Shell&layout=compact&&theme=dracula)
 
 ### In 2022 my tech. stack: 
 
@@ -11,11 +18,11 @@ Since 2015 I've been creating native apps for Android devices.
 * MVVM pattern + Clean architecture.
 * Modularisation with a Dynamic Feature delivery.
 * Material 3 Design.
-* Following best practices in Modern App Development.
-
-
-[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=sharing+my+insights+to&label=sharing+useful+insights+to&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
+* Best practices in Modern App Development.
   
+  
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=behind+the+scenes+on&label=behind+the+scenes+on&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
+
 
 ### Some feedback from clients I've been working with:
 
@@ -35,35 +42,37 @@ Since 2015 I've been creating native apps for Android devices.
  
 [![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Work+with+me+on&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
 
-- ⚡ 7 apps from scratch:
-    - [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) 
-    - [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new)
-    - [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite)
-    - [Real Estate Vids](https://play.google.com/store/apps/details?id=com.lesa.realestate)
-    - [QR Barcode reader](https://play.google.com/store/apps/details?id=com.mobiledevpro.barcodescanner)
-    - [COVID-19 Live Tracker WorldWide (open source)](https://github.com/dmitriy-chernysh/covid-19-tracker-android)
-    - [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/)
+### ✨ Last completed courses:
+- [Complete Kotlin Coroutines development course 2022](https://www.udemy.com/certificate/UC-6ceb0136-ec99-4c86-b92f-0e1cb863fa6b/)
+- [Kotlin Design Patterns masterclass](https://www.udemy.com/certificate/UC-f07dbf54-1eee-4f12-9e31-70edfc2ef16b/)
+- [2021 Mobile App Marketing & App Store Optimization ASO](https://www.udemy.com/certificate/UC-a468d1ac-81d0-4dcc-a21d-a04e65d140ac/)
 
-- 🔭 Working on:
-    - [Ticker Alerter App to getting trading alerts](https://www.instagram.com/tickeralerter.app/)
-    - Long-term freelance projects
-    - Open source [Android App Template | Kotlin | MVVM + Clean architecture](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
+
+### ⚡ Apps created from scratch:
+- [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) 
+- [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new)
+- [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite)
+- [Real Estate Vids](https://play.google.com/store/apps/details?id=com.lesa.realestate)
+- [QR Barcode reader](https://play.google.com/store/apps/details?id=com.mobiledevpro.barcodescanner)
+- [COVID-19 Live Tracker WorldWide (open source)](https://github.com/dmitriy-chernysh/covid-19-tracker-android)
+- [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/)
+
+### 🔭 Working on:
+- Open source [Android App Template | Kotlin | MVVM + Clean architecture](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
+- [Ticker Alerter App to getting trading alerts](https://www.instagram.com/tickeralerter.app/)
+- Long-term freelance projects
+
     <!-- - A new one pet project - app to create mockups by adding a device frame to videos ([mockup example](https://www.instagram.com/p/CHsfEEXAV5J/)) -->
     <!-- Growing my [Instagram account](https://www.instagram.com/mobiledevpro/) about AndroidDev. -->
    
     
-- 📫 Reach me at:  
+### 📫 Reach me at:  
    
-  <!--[![Web Page](https://img.shields.io/badge/-4285F4?&style=for-the-badge&label=www.mobile-dev.pro&logo=googlechrome&logoColor=white)](https://www.mobile-dev.pro/)-->
-     [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/dmitriychernysh/)
-     [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&message=twitter&logoColor=white)](https://twitter.com/mobiledev_pro)
-     [![Medium](https://img.shields.io/badge/-medium-212121?logo=medium&style=for-the-badge&logoColor=white)](https://medium.com/@mobiledevpro)
+[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/dmitriychernysh/)
+[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&message=twitter&logoColor=white)](https://twitter.com/mobiledev_pro)
+[![Medium](https://img.shields.io/badge/-medium-212121?logo=medium&style=for-the-badge&logoColor=white)](https://medium.com/@mobiledevpro)
  
- 
- 
-   
-![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriy-chernysh&theme=dracula&show_icons=true&count_private=true) 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-chernysh&hide=HTML,JavaScript,CSS,Shell&layout=compact&&theme=dracula)
+
 
 <!--
 **dmitriy-chernysh/dmitriy-chernysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
