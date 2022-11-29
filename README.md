@@ -19,10 +19,6 @@ Despite the war between Ukraine and Russia and some issues with electricity afte
 * Modularisation with a Dynamic Feature delivery.
 * Material 3 Design.
 * Best practices in Modern App Development.
-  
-  
-[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=behind+the+scenes+on&label=behind+the+scenes+on&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
-
 
 ### Some feedback from clients I've been working with:
 
@@ -39,8 +35,7 @@ Despite the war between Ukraine and Russia and some issues with electricity afte
 ⭐️⭐️⭐️⭐️⭐️ "Really great experience working with Dmitriy. I've struggled to find an Android developer in the past that was both skilled and had good communication - Dmitriy has both. I'm planning on continuing to work with him on new features for my app in the future."
 
 ⭐️⭐️⭐️⭐️⭐️ "Great developer, that provides his service on the very high level. Recommend to anyone who needs high-quality​ software development."
- 
-[![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Work+with+me+on&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
+
 
 ### ✨ Last completed courses:
 - [Complete Kotlin Coroutines development course 2022](https://www.udemy.com/certificate/UC-6ceb0136-ec99-4c86-b92f-0e1cb863fa6b/)
@@ -68,10 +63,17 @@ Despite the war between Ukraine and Russia and some issues with electricity afte
     
 ### 📫 Reach me at:  
    
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=behind+the+scenes+in+Stories&label=behind+the+scenes+in+Stories&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
+
+[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&message=Sharing+some+stuffs+to&label=Sharing+some+stuffs+to&logoColor=white)](https://twitter.com/mobiledev_pro)
+
+[![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Work+with+me+on&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
+
 [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/dmitriychernysh/)
-[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&message=twitter&logoColor=white)](https://twitter.com/mobiledev_pro)
+
 [![Medium](https://img.shields.io/badge/-medium-212121?logo=medium&style=for-the-badge&logoColor=white)](https://medium.com/@mobiledevpro)
- 
+
+
 
 
 <!--
