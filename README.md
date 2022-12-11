@@ -18,6 +18,7 @@ Despite the war between Ukraine and Russia and some issues with electricity afte
 * MVVM pattern + Clean architecture.
 * Modularisation with a Dynamic Feature delivery.
 * Material 3 Design.
+* Jetpack Compose
 * Best practices in Modern App Development.
 
 ### Some feedback from clients I've been working with:
