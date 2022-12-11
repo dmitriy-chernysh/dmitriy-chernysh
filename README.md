@@ -38,7 +38,8 @@ Despite the war between Ukraine and Russia and some issues with electricity afte
 ⭐️⭐️⭐️⭐️⭐️ "Great developer, that provides his service on the very high level. Recommend to anyone who needs high-quality​ software development."
 
 
-### ✨ Last completed courses:
+### ✨ The latest completed courses:
+- [Jetpack Compose Crash course for Android with Kotlin](https://www.udemy.com/certificate/UC-fd31313c-b2e4-4009-8ea3-26a0a7761c17/)
 - [Complete Kotlin Coroutines development course 2022](https://www.udemy.com/certificate/UC-6ceb0136-ec99-4c86-b92f-0e1cb863fa6b/)
 - [Kotlin Design Patterns masterclass](https://www.udemy.com/certificate/UC-f07dbf54-1eee-4f12-9e31-70edfc2ef16b/)
 - [2021 Mobile App Marketing & App Store Optimization ASO](https://www.udemy.com/certificate/UC-a468d1ac-81d0-4dcc-a21d-a04e65d140ac/)
