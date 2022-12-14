@@ -7,7 +7,7 @@
 
 ⚡️ Last 7 years I'm dealing mostly with Android Development and have been building modern [native] apps for devices running on Android OS from version 6 <sup>Marshmallow</sup> to 13 <sup>Tiramisu</sup> . It covers about ~96.2% of all android devices nowdays.
 
-### In 2022 the main tech. stack: 
+### :heavy_check_mark: In 2022 the main tech. stack :arrow_down:
 
 * Android SDK.
 * Kotlin, Coroutines, RxJava/RxAndroid, Koin, Retrofit, Room.
@@ -20,7 +20,7 @@
 * Firebase (Crashlytics, Performance, Remote Config, Database)
 * Circle CI.
 
-### 5star feedback from Upwork clients I've been working with:
+### :star2: 5star feedback from Upwork clients I've been working with :arrow_down:
 
 ⭐️⭐️⭐️⭐️⭐️ "Dmitri is great to work with. He works fast and his work is great, plus he's really good about communicating."
 
@@ -36,20 +36,20 @@
 
 ⭐️⭐️⭐️⭐️⭐️ "Great developer, that provides his service on the very high level. Recommend to anyone who needs high-quality​ software development."
 
-### 🔭 Under development:
+### 🔭 Under development :arrow_down:
 - [Android App Template | Kotlin | Jetpack Compose](https://github.com/mobiledevpro/Android-Jetpack-Compose-App-Template)
 - [Android App Template | Kotlin | MVVM + Clean architecture](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
 - [Ticker Alerter App to getting trading alerts](https://www.instagram.com/tickeralerter.app/)
 
 
-### ✨ The latest completed courses:
+### ✨ The latest completed courses :arrow_down:
 - [Jetpack Compose Crash course for Android with Kotlin](https://www.udemy.com/certificate/UC-fd31313c-b2e4-4009-8ea3-26a0a7761c17/)
 - [Complete Kotlin Coroutines development course 2022](https://www.udemy.com/certificate/UC-6ceb0136-ec99-4c86-b92f-0e1cb863fa6b/)
 - [Kotlin Design Patterns masterclass](https://www.udemy.com/certificate/UC-f07dbf54-1eee-4f12-9e31-70edfc2ef16b/)
 - [2021 Mobile App Marketing & App Store Optimization ASO](https://www.udemy.com/certificate/UC-a468d1ac-81d0-4dcc-a21d-a04e65d140ac/)
 
 
-### ⚡ Apps created from scratch:
+### ⚡ Apps created from scratch :arrow_down:
 - [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) 
 - [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new)
 - [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite)
@@ -60,15 +60,12 @@
 
 
     
-### 📫 Reach me at:  
+### 📫 Reach me at :arrow_down:
    
-[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=behind+the+scenes+in+Stories&label=behind+the+scenes+in+Stories&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
-[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&message=Sharing+some+stuffs+to&label=Sharing+some+stuffs+to&logoColor=white)](https://twitter.com/mobiledev_pro)
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Insights+and+progress+on&label=Insights+and+progress+on&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
+[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&message=Android+related+stuffs+on&label=Android+related+stuffs+on&logoColor=white)](https://twitter.com/mobiledev_pro)
 [![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Work+with+me+on&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
-[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/dmitriychernysh/)
-[![Medium](https://img.shields.io/badge/-medium-212121?logo=medium&style=for-the-badge&logoColor=white)](https://medium.com/@mobiledevpro)
-
-
+[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white&label=connect+on)](https://www.linkedin.com/in/dmitriychernysh/)
 
 
 <!--
