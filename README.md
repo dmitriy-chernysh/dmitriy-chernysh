@@ -7,21 +7,20 @@
 
 ⚡️ Last 7 years I'm dealing mostly with Android Development and have been building modern [native] apps for devices running on Android OS from version 6 <sup>Marshmallow</sup> to 13 <sup>Tiramisu</sup> . It covers about ~96.2% of all android devices nowdays.
 
-Despite the war between Ukraine and Russia and some issues with electricity after Russia's missile attacks, I'm still continue working from a safe place with an ability to stay online during blackouts.
+### In 2022 the main tech. stack: 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy-chernysh&hide=HTML,JavaScript,CSS,Shell&layout=compact&&theme=dracula)
-
-### In 2022 my tech. stack: 
-
+* Android SDK.
 * Kotlin, Coroutines, RxJava/RxAndroid, Koin, Retrofit, Room.
-* DataBinding/ViewBinding, LiveData, Jetpack Navigation components.
-* MVVM pattern + Clean architecture.
-* Modularisation with a Dynamic Feature delivery.
+* Jetpack Compose.
+* Jetpack Navigation.
+* Modularisation with Dynamic Feature delivery.
+* MVVM + Clean architecture.
 * Material 3 Design.
-* Jetpack Compose
-* Best practices in Modern App Development.
+* Ktor + Heroku.
+* Firebase (Crashlytics, Performance, Remote Config, Database)
+* Circle CI.
 
-### Some feedback from clients I've been working with:
+### 5star feedback from Upwork clients I've been working with:
 
 ⭐️⭐️⭐️⭐️⭐️ "Dmitri is great to work with. He works fast and his work is great, plus he's really good about communicating."
 
@@ -36,6 +35,11 @@ Despite the war between Ukraine and Russia and some issues with electricity afte
 ⭐️⭐️⭐️⭐️⭐️ "Really great experience working with Dmitriy. I've struggled to find an Android developer in the past that was both skilled and had good communication - Dmitriy has both. I'm planning on continuing to work with him on new features for my app in the future."
 
 ⭐️⭐️⭐️⭐️⭐️ "Great developer, that provides his service on the very high level. Recommend to anyone who needs high-quality​ software development."
+
+### 🔭 Under development:
+- [Android App Template | Kotlin | Jetpack Compose](https://github.com/mobiledevpro/Android-Jetpack-Compose-App-Template)
+- [Android App Template | Kotlin | MVVM + Clean architecture](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
+- [Ticker Alerter App to getting trading alerts](https://www.instagram.com/tickeralerter.app/)
 
 
 ### ✨ The latest completed courses:
@@ -54,25 +58,14 @@ Despite the war between Ukraine and Russia and some issues with electricity afte
 - [COVID-19 Live Tracker WorldWide (open source)](https://github.com/dmitriy-chernysh/covid-19-tracker-android)
 - [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/)
 
-### 🔭 Working on:
-- Open source [Android App Template | Kotlin | MVVM + Clean architecture](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
-- [Ticker Alerter App to getting trading alerts](https://www.instagram.com/tickeralerter.app/)
-- Long-term freelance projects
 
-    <!-- - A new one pet project - app to create mockups by adding a device frame to videos ([mockup example](https://www.instagram.com/p/CHsfEEXAV5J/)) -->
-    <!-- Growing my [Instagram account](https://www.instagram.com/mobiledevpro/) about AndroidDev. -->
-   
     
 ### 📫 Reach me at:  
    
 [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=behind+the+scenes+in+Stories&label=behind+the+scenes+in+Stories&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
-
 [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&message=Sharing+some+stuffs+to&label=Sharing+some+stuffs+to&logoColor=white)](https://twitter.com/mobiledev_pro)
-
 [![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Work+with+me+on&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
-
 [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/dmitriychernysh/)
-
 [![Medium](https://img.shields.io/badge/-medium-212121?logo=medium&style=for-the-badge&logoColor=white)](https://medium.com/@mobiledevpro)
 
 
