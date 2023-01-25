@@ -62,9 +62,9 @@
     
 ## 📫 Reach out to me
    
-[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Insights+and+progress+on&label=Insights+and+progress+on&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
-[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&message=Android+related+stuffs+on&label=Android+related+stuffs+on&logoColor=white)](https://twitter.com/mobiledev_pro)
-[![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Work+with+me+on&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes+in+Storiesn&label=Behind+the+scenes+in+Stories&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
+[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&message=Coding+Stuff+on&label=Coding+Stuff+on&logoColor=white)](https://twitter.com/mobiledev_pro)
+[![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Top+Rated+plus+on&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
 [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white&label=connect+on)](https://www.linkedin.com/in/dmitriychernysh/)
 
 
