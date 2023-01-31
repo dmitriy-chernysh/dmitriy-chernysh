@@ -7,14 +7,14 @@
 
 :small_blue_diamond: Last 7 years I'm dealing mostly with Android Development and have been building modern [native] apps for devices running on Android OS from version 6 <sup>Marshmallow</sup> to 13 <sup>Tiramisu</sup> . It covers about ~96.2% of all android devices nowdays.
 
-## :heavy_check_mark: In 2022 the main tech. stack
+## :heavy_check_mark: In 2023 the main tech. stack
 
 * Android SDK.
 * Kotlin, Coroutines, RxJava/RxAndroid, Koin, Retrofit, Room.
 * Jetpack Compose.
 * Jetpack Navigation.
 * Modularisation with Dynamic Feature delivery.
-* MVVM + Clean architecture.
+* MVVM or MVI + Clean architecture.
 * Material 3 Design.
 * Ktor + Heroku.
 * Firebase (Crashlytics, Performance, Remote Config, Database)
