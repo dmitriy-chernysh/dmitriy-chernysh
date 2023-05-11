@@ -20,7 +20,7 @@
 * Firebase (Crashlytics, Performance, Remote Config, Database)
 * Circle CI.
 
-## :star2: 5star feedback from Upwork clients I've been working with
+## :star2: 5star feedback from past clients I've been working with
 
 ⭐️⭐️⭐️⭐️⭐️ "Dmitri is great to work with. He works fast and his work is great, plus he's really good about communicating."
 
@@ -36,20 +36,11 @@
 
 ⭐️⭐️⭐️⭐️⭐️ "Great developer, that provides his service on the very high level. Recommend to anyone who needs high-quality​ software development."
 
-## 🔭 Under development
-- [Android App Template | Kotlin | Jetpack Compose](https://github.com/mobiledevpro/Android-Jetpack-Compose-App-Template)
-- [Android App Template | Kotlin | MVVM + Clean architecture](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
-- [Ticker Alerter App to getting trading alerts](https://www.instagram.com/tickeralerter.app/)
+## 🔭 Pet projects
+- ["CloseTalk" Chat App | Kotlin + Jetpack Compose + MVI](https://github.com/mobiledevpro/Android-Jetpack-Compose-App-Template)
+- [Android App Template | Kotlin + MVVM + Clean architecture](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
 
-
-## ✨ The latest completed courses
-- [Jetpack Compose Crash course for Android with Kotlin](https://www.udemy.com/certificate/UC-fd31313c-b2e4-4009-8ea3-26a0a7761c17/)
-- [Complete Kotlin Coroutines development course 2022](https://www.udemy.com/certificate/UC-6ceb0136-ec99-4c86-b92f-0e1cb863fa6b/)
-- [Kotlin Design Patterns masterclass](https://www.udemy.com/certificate/UC-f07dbf54-1eee-4f12-9e31-70edfc2ef16b/)
-- [2021 Mobile App Marketing & App Store Optimization ASO](https://www.udemy.com/certificate/UC-a468d1ac-81d0-4dcc-a21d-a04e65d140ac/)
-
-
-## ⚡ Apps created from scratch
+## ⚡ Apps built from scratch
 - [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) 
 - [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new)
 - [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite)
@@ -59,12 +50,18 @@
 - [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/)
 
 
+## ✨ The latest completed courses
+- [Jetpack Compose Crash course for Android with Kotlin](https://www.udemy.com/certificate/UC-fd31313c-b2e4-4009-8ea3-26a0a7761c17/)
+- [Complete Kotlin Coroutines development course 2022](https://www.udemy.com/certificate/UC-6ceb0136-ec99-4c86-b92f-0e1cb863fa6b/)
+- [Kotlin Design Patterns masterclass](https://www.udemy.com/certificate/UC-f07dbf54-1eee-4f12-9e31-70edfc2ef16b/)
+- [2021 Mobile App Marketing & App Store Optimization ASO](https://www.udemy.com/certificate/UC-a468d1ac-81d0-4dcc-a21d-a04e65d140ac/)
+
     
 ## 📫 Reach out to me
    
 [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes+in+Storiesn&label=Behind+the+scenes+in+Stories&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
-[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&message=Coding+Stuff+on&label=Coding+Stuff+on&logoColor=white)](https://twitter.com/mobiledev_pro)
-[![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Top+Rated+plus+on&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
+[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&label=Mobile+Dev+notes&logoColor=white)](https://twitter.com/mobiledev_pro)
+[![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Work+with+me&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
 [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white&label=connect+on)](https://www.linkedin.com/in/dmitriychernysh/)
 
 
