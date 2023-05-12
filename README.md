@@ -64,6 +64,8 @@
 [![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Work+with+me&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
 [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white&label=connect+on)](https://www.linkedin.com/in/dmitriychernysh/)
 
+## 
+![](https://komarev.com/ghpvc/?username=dmitriy-chernysh&style=flat-square)
 
 <!--
 **dmitriy-chernysh/dmitriy-chernysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
