@@ -20,7 +20,7 @@
 * Firebase (Crashlytics, Performance, Remote Config, Database)
 * Circle CI.
 
-## :star2: 5star feedback from past clients I've been working with
+## :star2: 5star feedback from my clients
 
 ⭐️⭐️⭐️⭐️⭐️ "Dmitri is great to work with. He works fast and his work is great, plus he's really good about communicating."
 
