@@ -36,8 +36,8 @@
 
 ⭐️⭐️⭐️⭐️⭐️ "Great developer, that provides his service on the very high level. Recommend to anyone who needs high-quality​ software development."
 
-## 🔭 Pet projects
-- ["CloseTalk" Chat App | Kotlin + Jetpack Compose + MVI](https://github.com/mobiledevpro/Android-Jetpack-Compose-App-Template)
+## 🔭 App Templates
+- [Android Chat App | Kotlin + Jetpack Compose + MVI](https://github.com/mobiledevpro/Android-Jetpack-Compose-App-Template)
 - [Android App Template | Kotlin + MVVM + Clean architecture](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
 
 ## ⚡ Apps built from scratch
