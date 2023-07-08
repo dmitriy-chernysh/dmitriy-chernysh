@@ -1,5 +1,6 @@
    
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriy-chernysh&theme=dracula&show_icons=true&count_private=true) -->
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dmitriy-chernysh&layout=compact&theme=dracula&hide=javascript,html,css,shell)
 
 ### Welcome to my profile 👋 
   
@@ -36,6 +37,9 @@
 
 ⭐️⭐️⭐️⭐️⭐️ "Great developer, that provides his service on the very high level. Recommend to anyone who needs high-quality​ software development."
 
+## :zap: Working on:
+- [TickerAlerter.app | Trading Alerts & Backtesting | Desktop app with Kotlin + Compose Multiplatform](https://www.instagram.com/tickeralerter.app/)
+
 ## 🔭 App Templates
 - [Android Chat App | Kotlin + Jetpack Compose + MVI](https://github.com/mobiledevpro/Android-Jetpack-Compose-App-Template)
 - [Android App Template | Kotlin + MVVM + Clean architecture](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
@@ -59,10 +63,15 @@
     
 ## 📫 Reach out to me
    
-[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes+in+Storiesn&label=Behind+the+scenes+in+Stories&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
-[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&label=Mobile+Dev+notes&logoColor=white)](https://twitter.com/mobiledev_pro)
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes+in+Storiesn&label=Behind+the+scenes+of+building+apps&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
+
+[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&label=About+Experience+with+Compose&logoColor=white)](https://twitter.com/mobiledev_pro)
+
 [![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Work+with+me&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
+
 [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white&label=connect+on)](https://www.linkedin.com/in/dmitriychernysh/)
+
+[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&label=Shorts&style=for-the-badge)](https://www.youtube.com/@mobiledevpro)
 
 ## 
 ![](https://komarev.com/ghpvc/?username=dmitriy-chernysh&style=flat-square)
