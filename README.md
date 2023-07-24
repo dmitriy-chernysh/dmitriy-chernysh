@@ -37,7 +37,7 @@
 
 ⭐️⭐️⭐️⭐️⭐️ "Great developer, that provides his service on the very high level. Recommend to anyone who needs high-quality​ software development."
 
-## :zap: Working on:
+## :zap: Working on
 - [TickerAlerter.app | Trading Alerts & Backtesting | Desktop app with Kotlin + Compose Multiplatform](https://www.instagram.com/tickeralerter.app/)
 
 ## 🔭 App Templates
@@ -67,11 +67,11 @@
 
 [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&label=About+Experience+with+Compose&logoColor=white)](https://twitter.com/mobiledev_pro)
 
+[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&label=Watch+on&style=for-the-badge)](https://www.youtube.com/@mobiledevpro)
+
 [![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Work+with+me&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
 
 [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white&label=connect+on)](https://www.linkedin.com/in/dmitriychernysh/)
-
-[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&label=Shorts&style=for-the-badge)](https://www.youtube.com/@mobiledevpro)
 
 ## 
 ![](https://komarev.com/ghpvc/?username=dmitriy-chernysh&style=flat-square)
