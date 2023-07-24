@@ -2,7 +2,15 @@
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriy-chernysh&theme=dracula&show_icons=true&count_private=true) -->
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dmitriy-chernysh&layout=compact&theme=dracula&hide=javascript,html,css,shell)
 
-### Welcome to my profile 👋 
+## :zap: Working on
+- [TickerAlerter.app | Trading Alerts & Backtesting | Desktop app with Kotlin + Compose Multiplatform](https://www.instagram.com/tickeralerter.app/)
+
+## 🔭 App Templates
+- [Android Chat App | Kotlin + Jetpack Compose + MVI](https://github.com/mobiledevpro/Android-Jetpack-Compose-App-Template)
+- [Android App Template | Kotlin + MVVM + Clean architecture](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
+
+
+## 👋 Welcome to my profile 
   
 :small_blue_diamond: I'm a Software Engineer from Ukraine with over 10 years of experience in software development and a Top-Rated freelance Developer on Upwork since 2016.
 
@@ -36,13 +44,6 @@
 ⭐️⭐️⭐️⭐️⭐️ "Really great experience working with Dmitriy. I've struggled to find an Android developer in the past that was both skilled and had good communication - Dmitriy has both. I'm planning on continuing to work with him on new features for my app in the future."
 
 ⭐️⭐️⭐️⭐️⭐️ "Great developer, that provides his service on the very high level. Recommend to anyone who needs high-quality​ software development."
-
-## :zap: Working on
-- [TickerAlerter.app | Trading Alerts & Backtesting | Desktop app with Kotlin + Compose Multiplatform](https://www.instagram.com/tickeralerter.app/)
-
-## 🔭 App Templates
-- [Android Chat App | Kotlin + Jetpack Compose + MVI](https://github.com/mobiledevpro/Android-Jetpack-Compose-App-Template)
-- [Android App Template | Kotlin + MVVM + Clean architecture](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
 
 ## ⚡ Apps built from scratch
 - [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) 
