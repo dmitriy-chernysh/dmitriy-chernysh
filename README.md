@@ -1,8 +1,8 @@
    
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriy-chernysh&theme=dracula&show_icons=true&count_private=true) -->
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dmitriy-chernysh&layout=compact&theme=dracula&hide=javascript,html,css,shell)
 
-![GitHub Contributions](https://github.com/users/dmitriy-chernysh/contributions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Jetpack-Compose-ChatApp-Template)](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Android-Kotlin-MVVM-Template)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
 
 ## :zap: Working on
 - [TickerAlerter.app | Trading Alerts & Backtesting | Desktop app with Kotlin + Compose Multiplatform](https://www.instagram.com/tickeralerter.app/)
