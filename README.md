@@ -1,16 +1,11 @@
    
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriy-chernysh&theme=dracula&show_icons=true&count_private=true) -->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Jetpack-Compose-ChatApp-Template)](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Android-Kotlin-MVVM-Template)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
+## 🔭 Android App Tempates
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Jetpack-Compose-ChatApp-Template&theme=transparent)](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Android-Kotlin-MVVM-Template&theme=transparent)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
 
 ## :zap: Working on
 - [TickerAlerter.app | Trading Alerts & Backtesting | Desktop app with Kotlin + Compose Multiplatform](https://www.instagram.com/tickeralerter.app/)
-
-## 🔭 App Templates
-- [Android Chat App | Kotlin + Jetpack Compose + MVI](https://github.com/mobiledevpro/Android-Jetpack-Compose-App-Template)
-- [Android App Template | Kotlin + MVVM + Clean architecture](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
-
 
 ## 👋 Welcome to my profile 
   
