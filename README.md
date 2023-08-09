@@ -12,7 +12,7 @@
 
 ## 
 ### :zap: Working on
-- [TickerAlerter.app | Trading Alerts & Backtesting | Desktop app with Kotlin + Compose Multiplatform](https://www.instagram.com/tickeralerter.app/)
+- [TickerAlerter.app | Crypto Alerts & Backtesting | Desktop app with Kotlin + Compose Multiplatform](https://www.instagram.com/tickeralerter.app/)
   
 ## 
 ### 👋 Welcome to my profile 
