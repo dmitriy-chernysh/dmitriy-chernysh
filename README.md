@@ -4,11 +4,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Jetpack-Compose-ChatApp-Template&theme=dark)](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Android-Kotlin-MVVM-Template&theme=dark)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
 
-[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes+in+Storiesn&label=Behind+the+scenes+of+building+apps&style=flat-square&logoColor=white)](https://www.instagram.com/mobiledevpro/)
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes+in+Storiesn&label=Behind+the+scenes+of+building+apps+on&style=flat-square&logoColor=white)](https://www.instagram.com/mobiledevpro/)
 [![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&style=flat-square&label=Vids+on)](https://www.youtube.com/@mobiledevpro)
-[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=flat-square&logoColor=white&label=Build+in+public)](https://twitter.com/mobiledev_pro)
-[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=flat-square&logoColor=white&label=Connect)](https://www.linkedin.com/in/dmitriychernysh/)
-[![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Work+with+me&style=flat-square)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
+[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=flat-square&logoColor=white&label=Build+in+public+on)](https://twitter.com/mobiledev_pro)
+[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=flat-square&logoColor=white&label=Connect+on)](https://www.linkedin.com/in/dmitriychernysh/)
+[![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Work+with+me+on&style=flat-square)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
 
 ## 
 ### :zap: Working on
