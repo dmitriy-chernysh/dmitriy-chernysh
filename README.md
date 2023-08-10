@@ -8,7 +8,7 @@
 [![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&style=flat-square&label=Vids+on)](https://www.youtube.com/@mobiledevpro)
 [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=flat-square&logoColor=white&label=Build+in+public+on)](https://twitter.com/mobiledev_pro)
 [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=flat-square&logoColor=white&label=Connect+on)](https://www.linkedin.com/in/dmitriychernysh/)
-[![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Work+with+me+on&style=flat-square)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
+[![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Work+with+me+on&style=flat-square)](https://www.upwork.com/freelancers/~01fb21586ed544f07b?s=996364627857502209)
 
 ## 
 ### :zap: Working on
@@ -45,7 +45,7 @@
 |⭐️⭐️⭐️⭐️⭐️|"Really great experience working with Dmitriy. I've struggled to find an Android developer in the past that was both skilled and had good communication - Dmitriy has both. I'm planning on continuing to work with him on new features for my app in the future."|
 |⭐️⭐️⭐️⭐️⭐️|"Great developer, that provides his service on the very high level. Recommend to anyone who needs high-quality​ software development."|
 
-[![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Let's+build+your+next+app&style=flat-square)](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
+[![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Let's+build+your+next+app&style=flat-square)](https://www.upwork.com/freelancers/~01fb21586ed544f07b?s=996364627857502209)
 
 ## 
 ### ⚡ Apps built from scratch
