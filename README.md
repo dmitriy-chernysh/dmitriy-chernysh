@@ -4,6 +4,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Jetpack-Compose-ChatApp-Template&theme=dark&PAT_1=11111)](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Android-Kotlin-MVVM-Template&theme=dark&PAT_1=1111)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z6MNO96)
+
 [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes+in+Storiesn&label=Behind+the+scenes+of+building+apps+on&style=flat-square&logoColor=white)](https://www.instagram.com/mobiledevpro/)
 [![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&style=flat-square&label=Vids+on)](https://www.youtube.com/@mobiledevpro)
 [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=flat-square&logoColor=white&label=Build+in+public+on)](https://twitter.com/mobiledev_pro)
