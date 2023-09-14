@@ -13,10 +13,6 @@
 [![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Work+with+me+on&style=flat-square)](https://www.upwork.com/freelancers/~01fb21586ed544f07b?s=996364627857502209)
 
 ## 
-### :zap: Working on
-- [TickerAlerter.app | Crypto Alerts & Backtesting | Desktop app with Kotlin + Compose Multiplatform](https://www.instagram.com/tickeralerter.app/)
-  
-## 
 ### 👋 Welcome to my profile 
   
 :small_blue_diamond: I'm a Software Engineer from Ukraine with over 10 years of experience in software development and a Top-Rated freelance Developer on Upwork since 2016.
@@ -24,17 +20,25 @@
 :small_blue_diamond: Last 7 years I'm dealing mostly with Android Development and have been building modern [native] apps for devices running on Android OS from version 6 <sup>Marshmallow</sup> to 13 <sup>Tiramisu</sup> . It covers about ~96.2% of all android devices nowdays.
 
 ## 
-### :heavy_check_mark: In 2023 the main tech. stack
+### :heavy_check_mark: In 2023 my main tech. stack
 
-* Android SDK.
+* Android SDK, Gradle Build tool.
 * Kotlin, Coroutines, RxJava/RxAndroid, Koin, Retrofit, Room.
 * Jetpack libraries: Compose, Navigation, etc.
-* MVVM or MVI + Clean architecture + modularization
+* MVVM or MVI + Clean architecture, modularization.
 * Material 3 Design.
 * Ktor + Heroku for the app backend.
-* Firebase (Crashlytics, Performance, Remote Config, Database)
-* Circle CI.
+* Firebase services, Google APIs.
+* Circle CI or GitHub Actions for build and test automation.
+* Google ML kit.
+* FFMPeg for video/audio edit features.
+* CameraX API for photo/video capture.
 
+## 
+### :zap: Working on
+- [TickerAlerter.app | Crypto Alerts & Backtesting | Desktop app with Kotlin + Compose Multiplatform](https://www.instagram.com/tickeralerter.app/)
+
+  
 ## 
 ### :star2: 5-star feedback from [Upwork clients](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
 
