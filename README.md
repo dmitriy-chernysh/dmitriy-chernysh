@@ -15,9 +15,9 @@
 ## 
 ### 👋 Welcome to my profile 
   
-:small_blue_diamond: I'm a Software Engineer from Ukraine with over 10 years of experience in software development and a Top-Rated freelance Developer on Upwork since 2016.
+:small_blue_diamond: I'm a Software Engineer from Ukraine with over 10 years of experience in software development and a [Top-Rated Plus Developer on Upwork](https://www.upwork.com/freelancers/~01fb21586ed544f07b?s=996364627857502209).
 
-:small_blue_diamond: Last 7 years I'm dealing mostly with Android Development and have been building modern [native] apps for devices running on Android OS from version 6 <sup>Marshmallow</sup> to 13 <sup>Tiramisu</sup> . It covers about ~96.2% of all android devices nowdays.
+:small_blue_diamond: Last 7 years I've been dealing mostly with Android Development and building modern [native] apps for devices running on Android OS from version 6 <sup>Marshmallow</sup> to 13 <sup>Tiramisu</sup> . It covers about ~96.2% of all android devices nowdays.
 
 ## 
 ### :heavy_check_mark: In 2023 my main tech. stack
@@ -36,7 +36,8 @@
 
 ## 
 ### :zap: Working on
-- [TickerAlerter.app | Crypto Alerts & Backtesting | Desktop app with Kotlin + Compose Multiplatform](https://www.instagram.com/tickeralerter.app/)
+- [TickerAlerter.app | Desktop app with Kotlin + Compose](https://www.instagram.com/tickeralerter.app/)
+- [CloseTalk.app | Chat app for Android](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
 
   
 ## 
