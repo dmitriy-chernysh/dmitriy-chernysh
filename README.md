@@ -34,12 +34,7 @@
 * FFMPeg for video/audio edit features.
 * CameraX API for photo/video capture.
 
-## 
-### :zap: Working on
-- [TickerAlerter.app | Desktop app with Kotlin + Compose](https://www.instagram.com/tickeralerter.app/)
-- [CloseTalk.app | Chat app for Android](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
 
-  
 ## 
 ### :star2: 5-star feedback from [Upwork clients](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
 
