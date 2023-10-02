@@ -19,6 +19,7 @@
 
 :small_blue_diamond: Last 7 years I've been dealing mostly with Android Development and building modern [native] apps for devices running on Android OS from version 6 <sup>Marshmallow</sup> to 13 <sup>Tiramisu</sup> . It covers about ~96.2% of all android devices nowdays.
 
+
 ## 
 ### :heavy_check_mark: In 2023 my main tech. stack
 
@@ -48,6 +49,11 @@
 |⭐️⭐️⭐️⭐️⭐️|"Great developer, that provides his service on the very high level. Recommend to anyone who needs high-quality​ software development."|
 
 [![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Let's+build+your+next+app&style=flat-square)](https://www.upwork.com/freelancers/~01fb21586ed544f07b?s=996364627857502209)
+
+## 
+### ⚡ In progress
+- [Lightweight Trading terminal +Bot | Desktop | with Kotlin & Compose Multiplatform](https://www.instagram.com/tickeralerter.app/)
+- [Chat App | Open Source | Android, Kotlin, Jetpack Compose, MVI](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
 
 ## 
 ### ⚡ Apps built from scratch
