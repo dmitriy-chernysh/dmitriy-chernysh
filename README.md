@@ -13,6 +13,12 @@
 [![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Work+with+me+on&style=flat-square)](https://www.upwork.com/freelancers/~01fb21586ed544f07b?s=996364627857502209)
 
 ## 
+### ⚡ In progress
+- [Lightweight Trading terminal +Bot | Desktop | with Kotlin & Compose Multiplatform](https://www.instagram.com/tickeralerter.app/)
+- [Chat App | Open Source | Android, Kotlin, Jetpack Compose, MVI](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
+
+
+## 
 ### 👋 Welcome to my profile 
   
 :small_blue_diamond: I'm a Software Engineer from Ukraine with over 10 years of experience in software development and a [Top-Rated Plus Developer on Upwork](https://www.upwork.com/freelancers/~01fb21586ed544f07b?s=996364627857502209).
@@ -49,11 +55,6 @@
 |⭐️⭐️⭐️⭐️⭐️|"Great developer, that provides his service on the very high level. Recommend to anyone who needs high-quality​ software development."|
 
 [![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Let's+build+your+next+app&style=flat-square)](https://www.upwork.com/freelancers/~01fb21586ed544f07b?s=996364627857502209)
-
-## 
-### ⚡ In progress
-- [Lightweight Trading terminal +Bot | Desktop | with Kotlin & Compose Multiplatform](https://www.instagram.com/tickeralerter.app/)
-- [Chat App | Open Source | Android, Kotlin, Jetpack Compose, MVI](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
 
 ## 
 ### ⚡ Apps built from scratch
