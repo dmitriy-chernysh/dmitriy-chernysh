@@ -46,19 +46,20 @@
 ## 
 ### ⭐️⭐️⭐️⭐️⭐️ Feedback from [Upwork clients](https://www.upwork.com/freelancers/~01fb21586ed544f07b)
 
-> Dmitri is great to work with. He works fast and his work is great, plus he's really good about communicating.
 
-> Dmitri always does quality work, with attention to details and great communication. He's and Android Pro, highly recommend!
+- > Dmitri is great to work with. He works fast and his work is great, plus he's really good about communicating.
 
-> Dima is a pleasure to work with. He's Android programming skills are exceptional. He's always professional and easy to work with. He is very methodical in his approach. Which at times has resulted in delivery scheduling slipping a little but I rather have a good product than a hastily put together product. We're continuing to work with Dima for other projects.
+- > Dmitri always does quality work, with attention to details and great communication. He's and Android Pro, highly recommend!
 
-> I found Dmitriy on the Upwork search page. I really impressed how professional he handle whole process of my project development. No communication issues and very intuitive developer. I would highly recommend Dmitriy to anyone else out there who looks for a Android Development.
+- > Dima is a pleasure to work with. He's Android programming skills are exceptional. He's always professional and easy to work with. He is very methodical in his approach. Which at times has resulted in delivery scheduling slipping a little but I rather have a good product than a hastily put together product. We're continuing to work with Dima for other projects.
 
-> I've been extremely pleased with Dmitri's development skills, communication, and personality.
+- > I found Dmitriy on the Upwork search page. I really impressed how professional he handle whole process of my project development. No communication issues and very intuitive developer. I would highly recommend Dmitriy to anyone else out there who looks for a Android Development.
 
-> Really great experience working with Dmitriy. I've struggled to find an Android developer in the past that was both skilled and had good communication - Dmitriy has both. I'm planning on continuing to work with him on new features for my app in the future.
+- > I've been extremely pleased with Dmitri's development skills, communication, and personality.
 
-> Great developer, that provides his service on the very high level. Recommend to anyone who needs high-quality​ software development.
+- > Really great experience working with Dmitriy. I've struggled to find an Android developer in the past that was both skilled and had good communication - Dmitriy has both. I'm planning on continuing to work with him on new features for my app in the future.
+
+- > Great developer, that provides his service on the very high level. Recommend to anyone who needs high-quality​ software development.
 
 [![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&label=Let's+build+your+next+app&style=flat-square)](https://www.upwork.com/freelancers/~01fb21586ed544f07b?s=996364627857502209)
 
