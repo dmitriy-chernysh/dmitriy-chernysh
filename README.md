@@ -17,6 +17,9 @@
 ### ⚡ In progress
 - [Lightweight Trading terminal +Bot | Desktop | with Kotlin & Compose Multiplatform](https://www.instagram.com/tickeralerter.app/)
 - [Chat App | Open Source | Android, Kotlin, Jetpack Compose, MVI](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
+  
+  ![chatapp-preview-scaled](https://github.com/dmitriy-chernysh/dmitriy-chernysh/assets/5750211/78bce07e-01d3-481c-b7b5-7c5e677b2b74)
+
 
 
 ## 
