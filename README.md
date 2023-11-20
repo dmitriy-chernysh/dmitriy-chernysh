@@ -1,31 +1,27 @@
-   
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriy-chernysh&theme=dracula&show_icons=true&count_private=true) -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Jetpack-Compose-ChatApp-Template&theme=dark&PAT_1=111122)](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Android-Kotlin-MVVM-Template&theme=dark&PAT_1=11122)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
 
-[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes+in+Storiesn&style=for-the-badge&logoColor=white)](https://www.instagram.com/mobiledevpro/)
-[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&style=for-the-badge)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1)
-[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/mobiledev_pro)
-[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/dmitriychernysh/)
-[![Upwork](https://img.shields.io/badge/-upwork-brightgreen?logo=upwork&message=Upwork&style=for-the-badge)](https://www.upwork.com/freelancers/~01fb21586ed544f07b?s=996364627857502209)
-
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z6MNO96)
-
 ## 
 ### ⚡ Working on
-- [Crypto Price Alerts | Desktop app | with Kotlin & Compose Multiplatform](https://www.instagram.com/tickeralerter.app/)
-- [Chat App | Open Source | Android, Kotlin, Jetpack Compose, MVI](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
+- [TickerAlerter.app | Desktop with Compose Multiplatform](https://tickeralerter.app/)
+- [CloseTalk.app | Android with Jetpack Compose](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
 
 
 
 ## 
 ### 👋 Welcome to my profile 
   
-:small_blue_diamond: I'm a Software Engineer from Ukraine with over 10 years of experience in software development and a [Top-Rated Plus Developer on Upwork](https://www.upwork.com/freelancers/~01fb21586ed544f07b?s=996364627857502209).
+I'm a Software Engineer from Ukraine with over 10 years of experience in Software Development.
 
-:small_blue_diamond: Last 7 years I've been dealing mostly with Android Development and building modern [native] apps for devices running on Android OS from version 6 <sup>Marshmallow</sup> to 13 <sup>Tiramisu</sup> . It covers about ~96.2% of all android devices nowdays.
+7+ years I've been dealing mostly with Android Development and building modern [native] apps for devices running on Android 6+ . It covers about ~96.2% of all Android devices nowadays.
+
+##
+### Follow for dev-related content
+[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1)
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes+in+Storiesn&logoColor=white)](https://www.instagram.com/mobiledevpro/)
+[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/mobiledev_pro)
+[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriychernysh/)
 
 
 ## 
@@ -33,18 +29,18 @@
 
 * Android SDK, Gradle Build tool.
 * Kotlin, Coroutines, RxJava/RxAndroid, Koin, Retrofit, Room.
-* Jetpack libraries: Compose, Navigation, etc.
+* Jetpack Compose.
 * MVVM or MVI + Clean architecture, modularization.
 * Material 3 Design.
 * Ktor + Heroku for the app backend.
 * Firebase services, Google APIs.
-* Circle CI or GitHub Actions for build and test automation.
-* Google ML kit.
+* Circle CI or GitHub Actions for continuous integration.
+* Google ML kit for text and image recognition.
 * FFMPeg for video/audio edit features.
 * CameraX API for photo/video capture.
 
 ## 
-### ⚡ Apps built from scratch
+### ⚡ My work
 - [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) 
 - [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new)
 - [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite)
@@ -52,14 +48,6 @@
 - [QR Barcode reader](https://play.google.com/store/apps/details?id=com.mobiledevpro.barcodescanner)
 - [COVID-19 Live Tracker WorldWide (open source)](https://github.com/dmitriy-chernysh/covid-19-tracker-android)
 - [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/)
-
-## 
-### ✨ The latest completed courses
-- [Jetpack Compose Crash course for Android with Kotlin](https://www.udemy.com/certificate/UC-fd31313c-b2e4-4009-8ea3-26a0a7761c17/)
-- [Complete Kotlin Coroutines development course 2022](https://www.udemy.com/certificate/UC-6ceb0136-ec99-4c86-b92f-0e1cb863fa6b/)
-- [Kotlin Design Patterns masterclass](https://www.udemy.com/certificate/UC-f07dbf54-1eee-4f12-9e31-70edfc2ef16b/)
-- [2021 Mobile App Marketing & App Store Optimization ASO](https://www.udemy.com/certificate/UC-a468d1ac-81d0-4dcc-a21d-a04e65d140ac/)
-
 
 ## 
 ![](https://komarev.com/ghpvc/?username=dmitriy-chernysh&style=flat-square)
