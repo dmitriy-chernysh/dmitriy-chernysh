@@ -17,7 +17,7 @@ I'm a Software Engineer from Ukraine with over 10 years of experience in Softwar
 7+ years I've been dealing mostly with Android Development and building modern [native] apps for devices running on Android 6+ . It covers about ~96.2% of all Android devices nowadays.
 
 ##
-### Follow for dev-related content
+### Follow for more
 [![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1)
 [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes+in+Storiesn&logoColor=white)](https://www.instagram.com/mobiledevpro/)
 [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/mobiledev_pro)
@@ -51,6 +51,8 @@ I'm a Software Engineer from Ukraine with over 10 years of experience in Softwar
 
 ## 
 ![](https://komarev.com/ghpvc/?username=dmitriy-chernysh&style=flat-square)
+
+[![Dmitri Chernysh profile views](https://u8views.com/api/v1/github/profiles/5750211/views/day-week-month-total-count.svg)](https://u8views.com/github/dmitriy-chernysh)
 
 <!--
 **dmitriy-chernysh/dmitriy-chernysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
