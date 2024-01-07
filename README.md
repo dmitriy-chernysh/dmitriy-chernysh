@@ -3,9 +3,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Android-Kotlin-MVVM-Template&theme=dark&PAT_1=11122)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
 
 ## 
-### ⚡ Working on
-- [TickerAlerter.app | Desktop with Compose Multiplatform](https://tickeralerter.app/)
-- [CloseTalk.app | Android with Jetpack Compose](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
+### ⚡ Working on indie apps
+- [NeonFrame.app | Android](https://neonframe.app) - Highlight screenshots you're sharing to Social media in 3 taps
+- [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading.
+- [CloseTalk.app | Android | Open source](https://closetalk.app) - Connect with people near you, neighbors, coworkers, gym bros
 
 
 
@@ -17,11 +18,12 @@ I'm a Software Engineer from Ukraine with over 10 years of experience in Softwar
 7+ years I've been dealing mostly with Android Development and building modern [native] apps for devices running on Android 6+ . It covers about ~96.2% of all Android devices nowadays.
 
 ##
-### Follow for more
-[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1)
+### :speech_balloon: Have a project or questions? Reach out to me
+[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriychernysh/)
 [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes+in+Storiesn&logoColor=white)](https://www.instagram.com/mobiledevpro/)
 [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/mobiledev_pro)
-[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriychernysh/)
+[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1)
+
 
 
 ## 
@@ -40,14 +42,14 @@ I'm a Software Engineer from Ukraine with over 10 years of experience in Softwar
 * CameraX API for photo/video capture.
 
 ## 
-### ⚡ My work
-- [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) 
-- [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new)
-- [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite)
-- [Real Estate Vids](https://play.google.com/store/apps/details?id=com.lesa.realestate)
-- [QR Barcode reader](https://play.google.com/store/apps/details?id=com.mobiledevpro.barcodescanner)
-- [COVID-19 Live Tracker WorldWide (open source)](https://github.com/dmitriy-chernysh/covid-19-tracker-android)
-- [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/)
+### ⚡ My work - apps built from scratch
+- [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) - live
+- [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new) - live
+- [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite) - live
+- [Real Estate Vids](https://play.google.com/store/apps/details?id=com.lesa.realestate) - live
+- [QR Barcode reader](https://play.google.com/store/apps/details?id=com.mobiledevpro.barcodescanner) - live
+- [COVID-19 Live Tracker WorldWide (open source)](https://github.com/dmitriy-chernysh/covid-19-tracker-android) - discontinued
+- [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/) - discontinued
 
 ## 
 ![](https://komarev.com/ghpvc/?username=dmitriy-chernysh&style=flat-square)
