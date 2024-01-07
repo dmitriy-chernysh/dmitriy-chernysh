@@ -2,7 +2,7 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Jetpack-Compose-ChatApp-Template&theme=dark&PAT_1=111122)](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Android-Kotlin-MVVM-Template&theme=dark&PAT_1=11122)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template) -->
 
-[![Screenshot from 2024-01-07 22-37-34](https://github.com/dmitriy-chernysh/dmitriy-chernysh/assets/5750211/e3bc8622-faf3-4b22-bfeb-71bd79277b17)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1)
+[![Screenshot from 2024-01-07 22-37-34](https://github.com/dmitriy-chernysh/dmitriy-chernysh/assets/5750211/08a192e3-9126-43d4-b577-0b3b195ff3fd)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1)
 
 ##
 ### :speech_balloon: Have a project or tech. questions? Reach out to me
