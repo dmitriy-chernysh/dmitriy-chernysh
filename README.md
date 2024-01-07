@@ -4,6 +4,16 @@
 
 [![Screenshot from 2024-01-07 22-37-34](https://github.com/dmitriy-chernysh/dmitriy-chernysh/assets/5750211/e3bc8622-faf3-4b22-bfeb-71bd79277b17)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1)
 
+##
+### :speech_balloon: Have a project or tech. questions? Reach out to me
+[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/dmitrich)
+[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriychernysh/)
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes+in+Storiesn&logoColor=white)](https://www.instagram.com/mobiledevpro/)
+[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/mobiledev_pro)
+[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1)
+
+
+
 ## 
 ### ⚡ Working on indie apps
 - [NeonFrame.app | Android](https://neonframe.app) - Highlight screenshots you're sharing to Social media in 3 taps
@@ -18,16 +28,6 @@
 I'm a Software Engineer from Ukraine with over 10 years of experience in Software Development.
 
 7+ years I've been dealing mostly with Android Development and building modern [native] apps for devices running on Android 6+ . It covers about ~96.2% of all Android devices nowadays.
-
-##
-### :speech_balloon: Have a project or questions? Reach out to me
-[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/dmitrich)
-[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriychernysh/)
-[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes+in+Storiesn&logoColor=white)](https://www.instagram.com/mobiledevpro/)
-[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/mobiledev_pro)
-[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1)
-
-
 
 ## 
 ### :heavy_check_mark: In 2023 my main tech. stack
