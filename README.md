@@ -5,7 +5,7 @@
 [![Screenshot from 2024-01-07 22-37-34](https://github.com/dmitriy-chernysh/dmitriy-chernysh/assets/5750211/08a192e3-9126-43d4-b577-0b3b195ff3fd)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1)
 
 ##
-### :speech_balloon: Have a project or tech. questions? Reach out to me
+### :speech_balloon: If you'd like me to help you with the app project, feel free to reach out to me:
 [![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/dmitrich)
 [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriychernysh/)
 [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes+in+Storiesn&logoColor=white)](https://www.instagram.com/mobiledevpro/)
