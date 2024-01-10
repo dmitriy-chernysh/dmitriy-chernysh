@@ -15,7 +15,7 @@
 
 
 ## 
-### ⚡ Working on indie apps
+### ⚡ Building indie apps (with Kotlin & Compose)
 - [NeonFrame.app | Android](https://neonframe.app) - Highlight screenshots you're sharing to Social media in 3 taps
 - [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading.
 - [CloseTalk.app | Android | Open source](https://closetalk.app) - Connect with people near you, neighbors, coworkers, gym bros
