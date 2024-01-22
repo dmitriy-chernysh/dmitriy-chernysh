@@ -18,6 +18,7 @@
 - [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading - [The Story](https://www.instagram.com/stories/highlights/17958544361356879/)
 - [CloseTalk.app | Android | Open source](https://closetalk.app) - Connect with people near you, neighbors, coworkers, gym bros - [The Story](https://www.instagram.com/stories/highlights/17979507133965779/)
 
+## 
 ### :arrow_forward: Watch on YouTube (tap on the image)
 <a href="https://youtu.be/4XWOEMKOy80">
 <img src="https://img.youtube.com/vi/4XWOEMKOy80/0.jpg" width="360px"/>
