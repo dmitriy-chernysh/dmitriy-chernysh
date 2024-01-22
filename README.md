@@ -12,14 +12,28 @@
 [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/mobiledev_pro)
 [![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1)
 
-
-
 ## 
 ### ⚡ Building indie apps (with Kotlin & Compose)
 - [NeonFrame.app | Android](https://neonframe.app) - Highlight screenshots you're sharing to Social media in 3 taps - [The Story & Progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
 - [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading - [The Story](https://www.instagram.com/stories/highlights/17958544361356879/)
 - [CloseTalk.app | Android | Open source](https://closetalk.app) - Connect with people near you, neighbors, coworkers, gym bros - [The Story](https://www.instagram.com/stories/highlights/17979507133965779/)
 
+### :arrow_forward: Watch on YouTube (tap on the image)
+<a href="https://youtu.be/4XWOEMKOy80">
+<img src="https://img.youtube.com/vi/4XWOEMKOy80/0.jpg" width="360px"/>
+</a>
+
+<a href="https://youtu.be/q8PQnNo11Bk">
+<img src="https://img.youtube.com/vi/q8PQnNo11Bk/0.jpg" width="360px" />
+</a>
+
+<a href="https://youtu.be/5oNYbMhnWMo">
+<img src="https://img.youtube.com/vi/5oNYbMhnWMo/0.jpg" width="360px" />
+</a>
+
+<a href="https://youtu.be/G4SMkwSLNmw">
+<img src="https://img.youtube.com/vi/G4SMkwSLNmw/0.jpg" width="360px" />
+</a>
 
 
 ## 
