@@ -19,7 +19,7 @@
 - [CloseTalk.app | Android | Open source](https://closetalk.app) - Connect with people near you, neighbors, coworkers, gym bros - [The Story](https://www.instagram.com/stories/highlights/17979507133965779/)
 
 ## 
-### :arrow_forward: Watch on YouTube (tap on the image)
+### :arrow_forward: Watch me on YouTube (tap on image)
 <a href="https://youtu.be/4XWOEMKOy80">
 <img src="https://img.youtube.com/vi/4XWOEMKOy80/0.jpg" width="360px"/>
 </a>
@@ -27,15 +27,6 @@
 <a href="https://youtu.be/q8PQnNo11Bk">
 <img src="https://img.youtube.com/vi/q8PQnNo11Bk/0.jpg" width="360px" />
 </a>
-
-<a href="https://youtu.be/5oNYbMhnWMo">
-<img src="https://img.youtube.com/vi/5oNYbMhnWMo/0.jpg" width="360px" />
-</a>
-
-<a href="https://youtu.be/G4SMkwSLNmw">
-<img src="https://img.youtube.com/vi/G4SMkwSLNmw/0.jpg" width="360px" />
-</a>
-
 
 ## 
 ### 👋 Welcome to my profile 
@@ -70,8 +61,6 @@ I'm a Software Engineer from Ukraine with over 10 years of experience in Softwar
 - [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/) - discontinued
 
 ## 
-![](https://komarev.com/ghpvc/?username=dmitriy-chernysh&style=flat-square)
-
 [![Dmitri Chernysh profile views](https://u8views.com/api/v1/github/profiles/5750211/views/day-week-month-total-count.svg)](https://u8views.com/github/dmitriy-chernysh)
 
 <!--
