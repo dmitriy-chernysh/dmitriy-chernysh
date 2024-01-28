@@ -36,7 +36,7 @@ I'm a Software Engineer from Ukraine with over 10 years of experience in Softwar
 7+ years I've been dealing mostly with Android Development and building modern [native] apps for devices running on Android 6+ . It covers about ~96.2% of all Android devices nowadays.
 
 ## 
-### :heavy_check_mark: In 2023 my main tech. stack
+### :heavy_check_mark: In 2024 my main tech. stack
 
 * Android SDK, Gradle Build tool.
 * Kotlin, Coroutines, RxJava/RxAndroid, Koin, Retrofit, Room.
