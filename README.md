@@ -19,7 +19,7 @@
 - [CloseTalk.app | Android | Open source](https://closetalk.app) - Connect with people near you, neighbors, coworkers, gym bros - [The Story](https://www.instagram.com/stories/highlights/17979507133965779/)
 
 ## 
-### :arrow_forward: Watch me on YouTube (tap on image)
+### :arrow_forward: On YouTube (tap to watch)
 <a href="https://youtu.be/4XWOEMKOy80">
 <img src="https://img.youtube.com/vi/4XWOEMKOy80/0.jpg" width="360px"/>
 </a>
