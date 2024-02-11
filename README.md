@@ -7,7 +7,7 @@
 
 
 ##
-### :speech_balloon: If you'd like me to help you with the app project, feel free to reach out to me:
+### :speech_balloon: Would like me to help with the app project, or have questions, or business ideas, reach out to me:
 [![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/dmitrich)
 [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriychernysh/)
 [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes+in+Storiesn&logoColor=white)](https://www.instagram.com/mobiledevpro/)
