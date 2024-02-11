@@ -53,7 +53,7 @@ I'm a Software Engineer from Ukraine with over 10 years of experience in Softwar
 * CameraX API for photo/video capture.
 
 ## 
-### ⚡ My work - apps built from scratch
+### ⚡ My work - Android apps built from scratch
 - [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) - live
 - [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new) - live
 - [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite) - live
