@@ -16,19 +16,13 @@
 
 ## 
 ### ⚡ Building indie apps (with Kotlin & Compose)
-- [NeonFrame.app | Android](https://neonframe.app) - Highlight screenshots you're sharing to Social media in 3 taps - [The Story & Progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
-- [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading - [The Story](https://www.instagram.com/stories/highlights/17958544361356879/)
+- [NeonFrame.app | Android](https://neonframe.app) - Highlight screenshots you're sharing to Social media - [The Story & Progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
 - [CloseTalk.app | Android | Open source](https://closetalk.app) - Connect with people near you, neighbors, coworkers, gym bros - [The Story](https://www.instagram.com/stories/highlights/17979507133965779/)
+- [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading - [The Story](https://www.instagram.com/stories/highlights/17958544361356879/)
 
-## 
-### :arrow_forward: On YouTube (tap to watch)
-<a href="https://youtu.be/4XWOEMKOy80">
-<img src="https://img.youtube.com/vi/4XWOEMKOy80/0.jpg" width="360px"/>
-</a>
 
-<a href="https://youtu.be/q8PQnNo11Bk">
-<img src="https://img.youtube.com/vi/q8PQnNo11Bk/0.jpg" width="360px" />
-</a>
+##
+### :point_right: NEW Guide [The Power of GitHub Actions 2024](https://mobiledevpro.gumroad.com/l/zjbvsd)
 
 ## 
 ### 👋 Welcome to my profile 
