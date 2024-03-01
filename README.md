@@ -2,8 +2,7 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Jetpack-Compose-ChatApp-Template&theme=dark&PAT_1=111122)](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Android-Kotlin-MVVM-Template&theme=dark&PAT_1=11122)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template) -->
 
-[![github-banner](https://github.com/dmitriy-chernysh/dmitriy-chernysh/assets/5750211/33160570-f75a-4f88-ace6-75bac6e54bb4)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1)
-
+[![github-banner](https://github.com/dmitriy-chernysh/dmitriy-chernysh/assets/5750211/33160570-f75a-4f88-ace6-75bac6e54bb4)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile_banner)
 
 
 ##
@@ -12,11 +11,11 @@
 [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriychernysh/)
 [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes+in+Storiesn&logoColor=white)](https://www.instagram.com/mobiledevpro/)
 [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/mobiledev_pro)
-[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1)
+[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
 
 ## 
 ### ⚡ Building indie apps (with Kotlin & Compose)
-- [NeonFrame.app | Android](https://neonframe.app) - Highlight screenshots you're sharing to Social media - [The Story & Progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
+- [NeonFrame.app | Android](https://neonframe.app?utm_source=github_main_profile) - Highlight screenshots you're sharing to Social media - [The Story & Progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
 - [CloseTalk.app | Android | Open source](https://closetalk.app) - Connect with people near you, neighbors, coworkers, gym bros - [The Story](https://www.instagram.com/stories/highlights/17979507133965779/)
 - [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading - [The Story](https://www.instagram.com/stories/highlights/17958544361356879/)
 
