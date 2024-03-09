@@ -13,15 +13,19 @@
 [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/mobiledev_pro)
 [![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
 
+##
+### :point_right: NEW Guide [The Power of GitHub Actions 2024](https://mobiledevpro.gumroad.com/l/zjbvsd)
+
+
 ## 
 ### ⚡ Building indie apps (with Kotlin & Compose)
 - [NeonFrame.app | Android](https://neonframe.app?utm_source=github_main_profile) - Highlight screenshots you're sharing to Social media - [The Story & Progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
-- [CloseTalk.app | Android | Open source](https://closetalk.app) - Connect with people near you, neighbors, coworkers, gym bros - [The Story](https://www.instagram.com/stories/highlights/17979507133965779/)
+- [CloseTalk.app | Android | Open source](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template) - Connect with people near you, neighbors, coworkers, gym bros - [The Story](https://www.instagram.com/stories/highlights/17979507133965779/)
 - [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading - [The Story](https://www.instagram.com/stories/highlights/17958544361356879/)
 
-
 ##
-### :point_right: NEW Guide [The Power of GitHub Actions 2024](https://mobiledevpro.gumroad.com/l/zjbvsd)
+### Indie Dev Story on YouTube (click to watch)
+[![Indie Dev Story 0](https://img.youtube.com/vi/XCS-ioIFS8w/0.jpg)](https://www.youtube.com/watch?v=XCS-ioIFS8w)
 
 ## 
 ### 👋 Welcome to my profile 
