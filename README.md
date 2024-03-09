@@ -24,7 +24,7 @@
 - [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading - [The Story](https://www.instagram.com/stories/highlights/17958544361356879/)
 
 ##
-### Indie Dev Story on YouTube (click to watch)
+### ▶️ Indie Dev Story on YouTube (click to watch)
 [![Indie Dev Story 0](https://img.youtube.com/vi/XCS-ioIFS8w/0.jpg)](https://www.youtube.com/watch?v=XCS-ioIFS8w)
 
 ## 
