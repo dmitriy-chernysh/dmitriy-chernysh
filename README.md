@@ -25,7 +25,7 @@
 
 ##
 ### ▶️ Indie Dev Story on YouTube (click to watch)
-[![Indie Dev Story 0](https://img.youtube.com/vi/XCS-ioIFS8w/0.jpg)](https://www.youtube.com/watch?v=XCS-ioIFS8w)
+[![Indie Dev Story 0](https://img.youtube.com/vi/E0VEUGhzcoo/0.jpg)](https://www.youtube.com/watch?v=E0VEUGhzcoo)
 
 ## 
 ### 👋 Welcome to my profile 
