@@ -2,37 +2,22 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Jetpack-Compose-ChatApp-Template&theme=dark&PAT_1=111122)](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Android-Kotlin-MVVM-Template&theme=dark&PAT_1=11122)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template) -->
 
-[![github-banner](https://github.com/dmitriy-chernysh/dmitriy-chernysh/assets/5750211/33160570-f75a-4f88-ace6-75bac6e54bb4)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile_banner)
-
+[![github-header](https://github.com/dmitriy-chernysh/dmitriy-chernysh/assets/5750211/f2aa94f9-8920-4068-9e8e-f4beeb268aa5)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile_banner)
 
 ##
-### :speech_balloon: Have a project idea or tech. questions? Feel free to reach out to me
+### :speech_balloon: Have a project or questions? Feel free to message
 [![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/dmitrich)
 [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriychernysh/)
 [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes+in+Storiesn&logoColor=white)](https://www.instagram.com/mobiledevpro/)
 [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/mobiledev_pro)
 [![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
 
-##
-### :point_right: NEW Guide [The Power of GitHub Actions 2024](https://mobiledevpro.gumroad.com/l/zjbvsd)
-
-
-## 
-### ⚡ Building indie apps (with Kotlin & Compose)
-- [NeonFrame.app | Android](https://neonframe.app?utm_source=github_main_profile) - Highlight screenshots you're sharing to Social media - [The Story & Progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
-- [CloseTalk.app | Android | Open source](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template) - Connect with people near you, neighbors, coworkers, gym bros - [The Story](https://www.instagram.com/stories/highlights/17979507133965779/)
-- [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading - [The Story](https://www.instagram.com/stories/highlights/17958544361356879/)
-
-##
-### ▶️ Indie Dev Story on YouTube (click to watch)
-[![Indie Dev Story 0](https://img.youtube.com/vi/E0VEUGhzcoo/0.jpg)](https://www.youtube.com/watch?v=E0VEUGhzcoo)
-
 ## 
 ### 👋 Welcome to my profile 
   
 I'm a Software Engineer from Ukraine with over 10 years of experience in Software Development.
 
-7+ years I've been dealing mostly with Android Development and building modern [native] apps for devices running on Android 6+ . It covers about ~96.2% of all Android devices nowadays.
+8 years I've been dealing mostly with Android Development and building modern [native] apps for devices running on Android 6+ . It covers about ~98% of all Android devices nowadays.
 
 ## 
 ### :heavy_check_mark: In 2024 my main tech. stack
@@ -50,7 +35,7 @@ I'm a Software Engineer from Ukraine with over 10 years of experience in Softwar
 * CameraX API for photo/video capture.
 
 ## 
-### ⚡ My work - Android apps built from scratch
+### ⚡ My past projects - apps built from scratch
 - [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) - live
 - [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new) - live
 - [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite) - live
@@ -58,6 +43,22 @@ I'm a Software Engineer from Ukraine with over 10 years of experience in Softwar
 - [QR Barcode reader](https://play.google.com/store/apps/details?id=com.mobiledevpro.barcodescanner) - live
 - [COVID-19 Live Tracker WorldWide (open source)](https://github.com/dmitriy-chernysh/covid-19-tracker-android) - discontinued
 - [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/) - discontinued
+
+##
+### :point_right: Guides
+- [The Power of GitHub Actions 2024](https://mobiledevpro.gumroad.com/l/zjbvsd)
+- [Integrating Deep linking into Android app](https://mobiledevpro.gumroad.com/l/deep-links)
+
+
+## 
+### ⚡ Indie apps (with Kotlin & Compose)
+- [NeonFrame.app | Android](https://neonframe.app?utm_source=github_main_profile) - Highlight screenshots you're sharing to Social media - [The Story & Progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
+- [CloseTalk.app | Android | Open source](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template) - Connect with people near you, neighbors, coworkers, gym bros - [The Story](https://www.instagram.com/stories/highlights/17979507133965779/)
+- [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading - [The Story](https://www.instagram.com/stories/highlights/17958544361356879/)
+
+##
+### ▶️ Indie Dev Story on YouTube (click to watch)
+[![Indie Dev Story 0](https://img.youtube.com/vi/E0VEUGhzcoo/0.jpg)](https://www.youtube.com/watch?v=E0VEUGhzcoo)
 
 ## 
 [![Dmitri Chernysh profile views](https://u8views.com/api/v1/github/profiles/5750211/views/day-week-month-total-count.svg)](https://u8views.com/github/dmitriy-chernysh)
