@@ -44,8 +44,22 @@ I'm a Software Engineer from Ukraine with over 10 years of experience in Softwar
 - [COVID-19 Live Tracker WorldWide (open source)](https://github.com/dmitriy-chernysh/covid-19-tracker-android) - discontinued
 - [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/) - discontinued
 
+## 
+### ⭐️ Some feedback from clients I had a chance to work with:
+> "Dmitry is a great contractor. He went above and beyond solving our issues. The best developer I had an opportunity to work with. It was a pleasure!" - Aleksandre.
+
+> "Really great experience working with Dmitriy. I've struggled to find an Android developer in the past that was both skilled and had good communication - Dmitriy has both. I'm planning on continuing to work with him on new features for my app in the future." - Krista.
+
+> "Dima is a pleasure to work with. He's Android programming skills are exceptional. He's always professional and easy to work with. He is very methodical in his approach. Which at times has resulted in delivery scheduling slipping a little but I rather have a good product than a hastily put together product. We're continuing to work with Dima for other projects." - Philip
+
+> "Dmitri approached the project with a professional attitude and applied his expertise to deliver high-quality result. His code is well-organized, maintainable and easy to follow. You can see he is an expert in Android development. He went beyond simply fulfilling the requirements and addressed other issues in the project that I was not aware of. The communication was great as well. I very much recommend Dmitri and will be happy to work with him again in the future." - Maxim
+
+> "I've been extremely pleased with Dmitri's development skills, communication, and personality." - Jeff
+
+[more](https://www.upwork.com/freelancers/dmitrich)
+
 ##
-### :point_right: Guides
+### :point_right: Android Dev Guides
 - [The Power of GitHub Actions 2024](https://mobiledevpro.gumroad.com/l/zjbvsd)
 - [Integrating Deep linking into Android app](https://mobiledevpro.gumroad.com/l/deep-links)
 
