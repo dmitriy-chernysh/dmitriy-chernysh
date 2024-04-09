@@ -1,7 +1,4 @@
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Jetpack-Compose-ChatApp-Template&theme=dark&PAT_1=111122)](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Android-Kotlin-MVVM-Template&theme=dark&PAT_1=11122)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template) -->
-
 [![github-header](https://github.com/dmitriy-chernysh/dmitriy-chernysh/assets/5750211/f2aa94f9-8920-4068-9e8e-f4beeb268aa5)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile_banner)
 
 ##
@@ -11,6 +8,10 @@
 [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes+in+Storiesn&logoColor=white)](https://www.instagram.com/mobiledevpro/)
 [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/mobiledev_pro)
 [![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
+
+##
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Jetpack-Compose-ChatApp-Template&theme=dark&PAT_1=111122)](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Android-Kotlin-MVVM-Template&theme=dark&PAT_1=11122)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
 
 ## 
 ### 👋 Welcome to my profile 
@@ -45,7 +46,7 @@ I'm a Software Engineer from Ukraine with over 10 years of experience in Softwar
 - [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/) - discontinued
 
 ## 
-### ⭐️ Some feedback from clients I had a chance to work with:
+### ⭐️ Some feedback from my clients:
 > "Dmitry is a great contractor. He went above and beyond solving our issues. The best developer I had an opportunity to work with. It was a pleasure!" - Aleksandre.
 
 > "Really great experience working with Dmitriy. I've struggled to find an Android developer in the past that was both skilled and had good communication - Dmitriy has both. I'm planning on continuing to work with him on new features for my app in the future." - Krista.
@@ -59,13 +60,13 @@ I'm a Software Engineer from Ukraine with over 10 years of experience in Softwar
 [more](https://www.upwork.com/freelancers/dmitrich)
 
 ##
-### :point_right: Android Dev Guides
+### :point_right: My Guides
 - [The Power of GitHub Actions 2024](https://mobiledevpro.gumroad.com/l/zjbvsd)
 - [Integrating Deep linking into Android app](https://mobiledevpro.gumroad.com/l/deep-links)
 
 
 ## 
-### ⚡ Indie apps (with Kotlin & Compose)
+### ⚡ Indie apps (built with Kotlin & Compose)
 - [NeonFrame.app | Android](https://neonframe.app?utm_source=github_main_profile) - Highlight screenshots you're sharing to Social media - [The Story & Progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
 - [CloseTalk.app | Android | Open source](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template) - Connect with people near you, neighbors, coworkers, gym bros - [The Story](https://www.instagram.com/stories/highlights/17979507133965779/)
 - [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading - [The Story](https://www.instagram.com/stories/highlights/17958544361356879/)
