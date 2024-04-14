@@ -13,6 +13,23 @@
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Jetpack-Compose-ChatApp-Template&theme=dark&PAT_1=111122)](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Android-Kotlin-MVVM-Template&theme=dark&PAT_1=11122)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
 
+##
+### :point_right: Guides
+- [The Power of GitHub Actions 2024](https://mobiledevpro.gumroad.com/l/zjbvsd)
+- [Integrating Deep linking into Android app](https://mobiledevpro.gumroad.com/l/deep-links)
+
+
+## 
+### ⚡ Indie apps (built with Kotlin & Compose)
+- [NeonFrame.app | Android](https://neonframe.app?utm_source=github_main_profile) - Highlight screenshots you're sharing to Social media - [The Story & Progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
+- [CloseTalk.app | Android | Open source](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template) - Connect with people near you, neighbors, coworkers, gym bros - [The Story](https://www.instagram.com/stories/highlights/17979507133965779/)
+- [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading - [The Story](https://www.instagram.com/stories/highlights/17958544361356879/)
+
+##
+### ▶️ Indie Dev Story on YouTube (click to watch)
+[![Indie Dev Story 0](https://img.youtube.com/vi/E0VEUGhzcoo/0.jpg)](https://www.youtube.com/watch?v=E0VEUGhzcoo)
+
+
 ## 
 ### 👋 Welcome to my profile 
   
@@ -58,22 +75,6 @@ I'm a Software Engineer from Ukraine with over 10 years of experience in Softwar
 > "I've been extremely pleased with Dmitri's development skills, communication, and personality." - Jeff
 
 [more](https://www.upwork.com/freelancers/dmitrich)
-
-##
-### :point_right: My Guides
-- [The Power of GitHub Actions 2024](https://mobiledevpro.gumroad.com/l/zjbvsd)
-- [Integrating Deep linking into Android app](https://mobiledevpro.gumroad.com/l/deep-links)
-
-
-## 
-### ⚡ Indie apps (built with Kotlin & Compose)
-- [NeonFrame.app | Android](https://neonframe.app?utm_source=github_main_profile) - Highlight screenshots you're sharing to Social media - [The Story & Progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
-- [CloseTalk.app | Android | Open source](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template) - Connect with people near you, neighbors, coworkers, gym bros - [The Story](https://www.instagram.com/stories/highlights/17979507133965779/)
-- [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading - [The Story](https://www.instagram.com/stories/highlights/17958544361356879/)
-
-##
-### ▶️ Indie Dev Story on YouTube (click to watch)
-[![Indie Dev Story 0](https://img.youtube.com/vi/E0VEUGhzcoo/0.jpg)](https://www.youtube.com/watch?v=E0VEUGhzcoo)
 
 ## 
 [![Dmitri Chernysh profile views](https://u8views.com/api/v1/github/profiles/5750211/views/day-week-month-total-count.svg)](https://u8views.com/github/dmitriy-chernysh)
