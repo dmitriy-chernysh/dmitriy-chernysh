@@ -1,13 +1,15 @@
 
 [![github-header](https://github.com/dmitriy-chernysh/dmitriy-chernysh/assets/5750211/f2aa94f9-8920-4068-9e8e-f4beeb268aa5)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile_banner)
 
+[<img alt="Badge" height="20px" src="https://androidweekly.net/issues/issue-619/badge">](https://androidweekly.net/issues/issue-619/)
+
 ##
-### :speech_balloon: Have a project or questions? Feel free to message
-[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/dmitrich)
-[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriychernysh/)
-[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes+in+Storiesn&logoColor=white)](https://www.instagram.com/mobiledevpro/)
-[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/mobiledev_pro)
-[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
+### :speech_balloon: Need help with the project or have questions? Feel free to reach out:
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes&label=Live+content+on&logoColor=white)](https://www.instagram.com/mobiledevpro/)
+[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=LinkedIn&logoColor=white&label=Long+reads+on)](https://www.linkedin.com/in/dmitriychernysh/)
+[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white&label=Build+in+public+on)](https://twitter.com/mobiledev_pro)
+[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&label=Watch+on)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
+[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Hire+me+on)](https://www.upwork.com/freelancers/dmitrich)
 
 ##
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Jetpack-Compose-ChatApp-Template&theme=dark&PAT_1=111122)](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
@@ -20,13 +22,13 @@
 
 
 ## 
-### ⚡ Indie apps (built with Kotlin & Compose)
-- [NeonFrame.app | Android](https://neonframe.app?utm_source=github_main_profile) - Highlight screenshots you're sharing to Social media - [The Story & Progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
+### ⚡ Indie apps
+- [NeonFrame.app | Android](https://neonframe.app?utm_source=github_main_profile) Highlight screenshots you're sharing to Social media - [The Story & Progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
 - [CloseTalk.app | Android | Open source](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template) - Connect with people near you, neighbors, coworkers, gym bros - [The Story](https://www.instagram.com/stories/highlights/17979507133965779/)
 - [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading - [The Story](https://www.instagram.com/stories/highlights/17958544361356879/)
 
 ##
-### ▶️ Watch on YouTube (click to watch)
+### ▶️ Watch on YouTube (click on the image)
 
 [![Screenshot from 2024-04-20 15-07-38](https://github.com/dmitriy-chernysh/dmitriy-chernysh/assets/5750211/2d59c241-65d5-45e9-9bca-cbbd16849938)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1)
 
