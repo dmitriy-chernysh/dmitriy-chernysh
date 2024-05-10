@@ -30,8 +30,7 @@
 ##
 ### ▶️ Watch on YouTube (click on the image)
 
-[![Screenshot from 2024-04-20 15-07-38](https://github.com/dmitriy-chernysh/dmitriy-chernysh/assets/5750211/2d59c241-65d5-45e9-9bca-cbbd16849938)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1)
-
+[![Screenshot from 2024-04-20 15-07-38](https://github.com/dmitriy-chernysh/dmitriy-chernysh/assets/5750211/8597fe2f-f953-40d7-9db3-f4bbda7e40aa)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1)
 
 
 ## 
