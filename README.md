@@ -23,14 +23,9 @@
 
 ## 
 ### ⚡ Indie apps
-- [NeonFrame.app | Android](https://neonframe.app?utm_source=github_main_profile) Highlight screenshots you're sharing to Social media - [The Story & Progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
+- [NeonFrame - Screenshot Editor | Android](https://neonframe.app?utm_source=github_main_profile) - Make engaging screenshots you share to social media - [The Story & Progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
 - [CloseTalk.app | Android | Open source](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template) - Connect with people near you, neighbors, coworkers, gym bros - [The Story](https://www.instagram.com/stories/highlights/17979507133965779/)
 - [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading - [The Story](https://www.instagram.com/stories/highlights/17958544361356879/)
-
-##
-### ▶️ Watch on YouTube (click on the image)
-
-[![Screenshot from 2024-04-20 15-07-38](https://github.com/dmitriy-chernysh/dmitriy-chernysh/assets/5750211/8597fe2f-f953-40d7-9db3-f4bbda7e40aa)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1)
 
 
 ## 
@@ -56,11 +51,11 @@ I'm a Software Engineer from Ukraine with over 10 years of experience in Softwar
 * CameraX API for photo/video capture.
 
 ## 
-### ⚡ My past projects - apps built from scratch
-- [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) - live
-- [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new) - live
-- [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite) - live
-- [Real Estate Vids](https://play.google.com/store/apps/details?id=com.lesa.realestate) - live
+### ⚡ Projects - apps built from scratch
+- [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) - live (support continues)
+- [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new) - live (quit in June 2023)
+- [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite) - live (quit in June 2023)
+- [Real Estate Vids](https://play.google.com/store/apps/details?id=com.lesa.realestate) - live (quit in Oct 2022)
 - [QR Barcode reader](https://play.google.com/store/apps/details?id=com.mobiledevpro.barcodescanner) - live
 - [COVID-19 Live Tracker WorldWide (open source)](https://github.com/dmitriy-chernysh/covid-19-tracker-android) - discontinued
 - [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/) - discontinued
