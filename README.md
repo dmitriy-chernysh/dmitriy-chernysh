@@ -6,10 +6,9 @@
 ##
 ### :speech_balloon: Need help with the project or have questions? Feel free to reach out:
 [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes&label=Live+content+on&logoColor=white)](https://www.instagram.com/mobiledevpro/)
-[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=LinkedIn&logoColor=white&label=Long+reads+on)](https://www.linkedin.com/in/dmitriychernysh/)
 [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white&label=Build+in+public+on)](https://twitter.com/mobiledev_pro)
+[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=LinkedIn&logoColor=white&label=Follow+on)](https://www.linkedin.com/in/dmitriychernysh/)
 [![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&label=Watch+on)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
-[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Hire+me+on)](https://www.upwork.com/freelancers/dmitrich)
 
 ##
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Jetpack-Compose-ChatApp-Template&theme=dark&PAT_1=111122)](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
@@ -72,7 +71,6 @@ I'm a Software Engineer from Ukraine with over 10 years of experience in Softwar
 
 > "I've been extremely pleased with Dmitri's development skills, communication, and personality." - Jeff
 
-[more](https://www.upwork.com/freelancers/dmitrich)
 
 ## 
 [![Dmitri Chernysh profile views](https://u8views.com/api/v1/github/profiles/5750211/views/day-week-month-total-count.svg)](https://u8views.com/github/dmitriy-chernysh)
