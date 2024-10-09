@@ -12,7 +12,7 @@
 
 ##
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Jetpack-Compose-ChatApp-Template&theme=dark&PAT_1=111122)](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Android-Kotlin-MVVM-Template&theme=dark&PAT_1=11122)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=neonframe.page&theme=dark&PAT_1=11122)]([https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template](https://github.com/mobiledevpro/neonframe.page))
 
 ##
 ### :point_right: Guides
