@@ -52,10 +52,10 @@ Since 2015 I've mostly been dealing with Android Development and building modern
 
 ## 
 ### ⚡ Projects - apps built from scratch
-- [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) - live (support continues)
-- [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new) - live (quit in June 2023)
-- [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite) - live (quit in June 2023)
-- [Real Estate Vids](https://play.google.com/store/apps/details?id=com.lesa.realestate) - live (quit in Oct 2022)
+- [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) - live (Feb 2019 - Nov 2020; support continues)
+- [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new) - live (June 2018 - June 2023)
+- [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite) - live (Jan 2017 - June 2023)
+- [Real Estate Vids](https://play.google.com/store/apps/details?id=com.lesa.realestate) - live (2021 - Oct 2022)
 - [QR Barcode reader](https://play.google.com/store/apps/details?id=com.mobiledevpro.barcodescanner) - live
 - [COVID-19 Live Tracker WorldWide (open source)](https://github.com/dmitriy-chernysh/covid-19-tracker-android) - discontinued
 - [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/) - discontinued
