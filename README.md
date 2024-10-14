@@ -32,7 +32,7 @@
   
 I'm a Software Engineer from Ukraine with over 10 years of experience in Software Development.
 
-8 years I've been dealing mostly with Android Development and building modern [native] apps for devices running on Android 6+ . It covers about ~98% of all Android devices nowadays.
+Since 2015 I've mostly been dealing with Android Development and building modern [native] apps for devices running on Android 8+ . It covers about ~95% of all Android devices nowadays. 
 
 ## 
 ### :heavy_check_mark: In 2024 my main tech. stack
@@ -48,6 +48,7 @@ I'm a Software Engineer from Ukraine with over 10 years of experience in Softwar
 * Google ML kit for text and image recognition.
 * FFMPeg for video/audio edit features.
 * CameraX API for photo/video capture.
+* OpenCV and/or OpenGL for image editing.
 
 ## 
 ### ⚡ Projects - apps built from scratch
