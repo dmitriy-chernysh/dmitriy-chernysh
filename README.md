@@ -9,7 +9,7 @@
 [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white&label=Build+in+public+on)](https://twitter.com/mobiledev_pro)
 [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=LinkedIn&logoColor=white&label=Follow+on)](https://www.linkedin.com/in/dmitriychernysh/)
 [![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&label=Watch+on)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
-
+[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Hire+me+on)](https://www.upwork.com/freelancers/dmitrich)
 ##
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Jetpack-Compose-ChatApp-Template&theme=dark&PAT_1=111122)](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=neonframe.page&theme=dark&PAT_1=11122)]([https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template](https://github.com/mobiledevpro/neonframe.page))
@@ -51,7 +51,7 @@ Since 2015 I've mostly been dealing with Android Development and building modern
 * OpenCV and/or OpenGL for image editing.
 
 ## 
-### ⚡ Projects - apps built from scratch
+### ⚡ Past projects - apps built from scratch
 - [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) - live (Feb 2019 - Nov 2020; support continues)
 - [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new) - live (June 2018 - June 2023)
 - [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite) - live (Jan 2017 - June 2023)
@@ -71,6 +71,9 @@ Since 2015 I've mostly been dealing with Android Development and building modern
 > "Dmitri approached the project with a professional attitude and applied his expertise to deliver high-quality result. His code is well-organized, maintainable and easy to follow. You can see he is an expert in Android development. He went beyond simply fulfilling the requirements and addressed other issues in the project that I was not aware of. The communication was great as well. I very much recommend Dmitri and will be happy to work with him again in the future." - Maxim
 
 > "I've been extremely pleased with Dmitri's development skills, communication, and personality." - Jeff
+
+
+[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Hire+me+on)](https://www.upwork.com/freelancers/dmitrich)
 
 
 ## 
