@@ -51,7 +51,8 @@ Since 2015 I've mostly been dealing with Android Development and building modern
 * OpenCV and/or OpenGL for image editing.
 
 ## 
-### ⚡ Past projects - apps built from scratch
+### ⚡ Projects - apps built from scratch
+- [PDF Maker](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDE0NTc0MzExMzQ1MTM1?igsh=MjR5czZuZThpeG5m) - live (Apr 2024 - in development)
 - [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) - live (Feb 2019 - Nov 2020; support continues)
 - [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new) - live (June 2018 - June 2023)
 - [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite) - live (Jan 2017 - June 2023)
