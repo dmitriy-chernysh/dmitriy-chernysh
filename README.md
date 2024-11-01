@@ -11,8 +11,8 @@
 [![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&label=Watch+on)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
 [![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Hire+me+on)](https://www.upwork.com/freelancers/dmitrich)
 ##
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Jetpack-Compose-ChatApp-Template&theme=dark&PAT_1=111122)](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=neonframe.page&theme=dark&PAT_1=11122)]([https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template](https://github.com/mobiledevpro/neonframe.page))
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=closetalk.app&theme=dark&PAT_1=111122)](https://github.com/mobiledevpro/closetalk.app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=neonframe.page&theme=dark&PAT_1=11122)](https://github.com/mobiledevpro/neonframe.page)
 
 ##
 ### :point_right: Guides
@@ -23,7 +23,7 @@
 ## 
 ### ⚡ Indie apps
 - [NeonFrame - Screenshot Editor | Android](https://neonframe.app?utm_source=github_main_profile) - Make engaging screenshots you share to social media - [The Story & Progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
-- [CloseTalk.app | Android | Open source](https://github.com/mobiledevpro/Jetpack-Compose-ChatApp-Template) - Connect with people near you, neighbors, coworkers, gym bros - [The Story](https://www.instagram.com/stories/highlights/17979507133965779/)
+- [CloseTalk.app | Android | Open source](https://github.com/mobiledevpro/closetalk.app) - Connect with people near you, neighbors, coworkers, gym bros - [The Story](https://www.instagram.com/stories/highlights/17979507133965779/)
 - [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading - [The Story](https://www.instagram.com/stories/highlights/17958544361356879/)
 
 
