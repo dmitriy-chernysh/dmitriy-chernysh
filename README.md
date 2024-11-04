@@ -26,6 +26,12 @@
 - [CloseTalk.app | Android | Open source](https://github.com/mobiledevpro/closetalk.app) - Connect with people near you, neighbors, coworkers, gym bros - [The Story](https://www.instagram.com/stories/highlights/17979507133965779/)
 - [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading - [The Story](https://www.instagram.com/stories/highlights/17958544361356879/)
 
+##
+### ▶️ [Watch on Youtube](https://www.youtube.com/@mobiledevpro/)
+
+[![image](https://github.com/user-attachments/assets/716fea26-5295-45f1-8086-b7bdb28284ef)](https://www.youtube.com/@mobiledevpro/)
+
+
 
 ## 
 ### 👋 Welcome to my profile 
