@@ -22,9 +22,9 @@
 
 ## 
 ### ⚡ Indie apps
-- [NeonFrame - Screenshot Editor | Android](https://neonframe.app?utm_source=github_main_profile) - Make engaging screenshots you share to social media - [The Story & Progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
-- [CloseTalk.app | Android | Open source](https://github.com/mobiledevpro/closetalk.app) - Connect with people near you, neighbors, coworkers, gym bros - [The Story](https://www.instagram.com/stories/highlights/17979507133965779/)
-- [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading - [The Story](https://www.instagram.com/stories/highlights/17958544361356879/)
+- [Screenshot Maker - NeonFrame.app](https://neonframe.app?utm_source=github_main_profile) - Make engaging screenshots with ease - [The story & progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
+- [CloseTalk.app | Android | Open source](https://github.com/mobiledevpro/closetalk.app) - Connect with people near you, neighbors, coworkers, gym bros - [The story](https://www.instagram.com/stories/highlights/17979507133965779/)
+- [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading - [The story](https://www.instagram.com/stories/highlights/17958544361356879/)
 
 ##
 ### ▶️ [Watch on Youtube](https://www.youtube.com/@mobiledevpro/)
@@ -38,10 +38,10 @@
   
 I'm a Software Engineer from Ukraine with over 10 years of experience in Software Development.
 
-Since 2015 I've mostly been dealing with Android Development and building modern [native] apps for devices running on Android 8+ . It covers about ~95% of all Android devices nowadays. 
+Since 2015 I've mostly been dealing with Android Development and building modern [native] apps for Phone and Tablet devices running on Android 6+ .
 
 ## 
-### :heavy_check_mark: In 2024 my main tech. stack
+### :heavy_check_mark: In 2024-2025 my main tech. stack
 
 * Android SDK, Gradle Build tool.
 * Kotlin, Coroutines, RxJava/RxAndroid, Koin, Retrofit, Room.
@@ -68,16 +68,18 @@ Since 2015 I've mostly been dealing with Android Development and building modern
 - [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/) - discontinued
 
 ## 
-### ⭐️ Some feedback from my clients:
-> "Dmitry is a great contractor. He went above and beyond solving our issues. The best developer I had an opportunity to work with. It was a pleasure!" - Aleksandre.
+### ⭐️⭐️⭐️⭐️⭐️ Some feedback from my clients:
+* "Working with Dmitriy was the best experience with a freelancer in my 25-year IT career." - Ante M.
 
-> "Really great experience working with Dmitriy. I've struggled to find an Android developer in the past that was both skilled and had good communication - Dmitriy has both. I'm planning on continuing to work with him on new features for my app in the future." - Krista.
+* "Dmitriy is a great contractor. He went above and beyond solving our issues. The best developer I had an opportunity to work with. It was a pleasure!" - Aleksandre.
 
-> "Dima is a pleasure to work with. He's Android programming skills are exceptional. He's always professional and easy to work with. He is very methodical in his approach. Which at times has resulted in delivery scheduling slipping a little but I rather have a good product than a hastily put together product. We're continuing to work with Dima for other projects." - Philip
+* "Really great experience working with Dmitriy. I've struggled to find an Android developer in the past that was both skilled and had good communication - Dmitriy has both. I'm planning on continuing to work with him on new features for my app in the future." - Krista.
 
-> "Dmitri approached the project with a professional attitude and applied his expertise to deliver high-quality result. His code is well-organized, maintainable and easy to follow. You can see he is an expert in Android development. He went beyond simply fulfilling the requirements and addressed other issues in the project that I was not aware of. The communication was great as well. I very much recommend Dmitri and will be happy to work with him again in the future." - Maxim
+* "Dima is a pleasure to work with. He's Android programming skills are exceptional. He's always professional and easy to work with. He is very methodical in his approach. Which at times has resulted in delivery scheduling slipping a little but I rather have a good product than a hastily put together product. We're continuing to work with Dima for other projects." - Philip
 
-> "I've been extremely pleased with Dmitri's development skills, communication, and personality." - Jeff
+* "Dmitri approached the project with a professional attitude and applied his expertise to deliver high-quality result. His code is well-organized, maintainable and easy to follow. You can see he is an expert in Android development. He went beyond simply fulfilling the requirements and addressed other issues in the project that I was not aware of. The communication was great as well. I very much recommend Dmitri and will be happy to work with him again in the future." - Maxim
+
+* "I've been extremely pleased with Dmitri's development skills, communication, and personality." - Jeff
 
 
 [![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Hire+me+on)](https://www.upwork.com/freelancers/dmitrich)
