@@ -11,9 +11,9 @@
 [![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&label=Watch+on)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
 [![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Hire+me+on)](https://www.upwork.com/freelancers/dmitrich)
 ##
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=closetalk.app&theme=dark&PAT_1=111122)](https://github.com/mobiledevpro/closetalk.app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=neonframe.page&theme=dark&PAT_1=11122)](https://github.com/mobiledevpro/neonframe.page)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=closetalk.app&theme=dark&PAT_1=1111222)](https://github.com/mobiledevpro/closetalk.app)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Android-Kotlin-MVVM-Template&theme=dark&PAT_1=111122)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=neonframe.page&theme=dark&PAT_1=11122)](https://github.com/mobiledevpro/neonframe.page)
 
 ##
 ### :point_right: Guides
