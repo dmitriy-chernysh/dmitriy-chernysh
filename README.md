@@ -44,7 +44,7 @@
 
 
 ## 
-### 👋 Welcome to my profile 
+### 👋 About me
   
 I'm a Software Engineer from Ukraine with over 10 years of experience in Software Development.
 
