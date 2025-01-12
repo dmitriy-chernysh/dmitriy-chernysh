@@ -5,11 +5,10 @@
 
 ##
 ### :speech_balloon: Need help with the project or have questions? Feel free to reach out:
-[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Behind+the+scenes&label=Live+content+on&logoColor=white)](https://www.instagram.com/mobiledevpro/)
-[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white&label=Build+in+public+on)](https://twitter.com/mobiledev_pro)
-[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=LinkedIn&logoColor=white&label=Follow+on)](https://www.linkedin.com/in/dmitriychernysh/)
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Tech+insights+on&label=Tech+insights+on&logoColor=white)](https://www.instagram.com/mobiledevpro/)
 [![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&label=Watch+on)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
-[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Hire+me+on)](https://www.upwork.com/freelancers/dmitrich)
+[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=LinkedIn&logoColor=white&label=Read+on)](https://www.linkedin.com/in/dmitriychernysh/)
+[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white&label=Read+on)](https://twitter.com/mobiledev_pro)
 ##
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=closetalk.app&theme=dark&PAT_1=1111222)](https://github.com/mobiledevpro/closetalk.app)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Android-Kotlin-MVVM-Template&theme=dark&PAT_1=111122)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
@@ -26,12 +25,22 @@
 - [Screenshot Maker - NeonFrame.app](https://neonframe.app?utm_source=github_main_profile) - Make engaging screenshots with ease - [The story & progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
 - [CloseTalk.app | Android | Open source](https://github.com/mobiledevpro/closetalk.app) - Connect with people near you, neighbors, coworkers, gym bros - [The story](https://www.instagram.com/stories/highlights/17979507133965779/)
 - [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading - [The story](https://www.instagram.com/stories/highlights/17958544361356879/)
+- [COVID-19 Live Tracker WorldWide | Android | Open source](https://github.com/dmitriy-chernysh/covid-19-tracker-android) - discontinued
+- [QR Barcode reader](https://play.google.com/store/apps/details?id=com.mobiledevpro.barcodescanner) - live
 
 ##
 ### ▶️ [Watch on Youtube](https://www.youtube.com/@mobiledevpro/)
 
 [![image](https://github.com/user-attachments/assets/716fea26-5295-45f1-8086-b7bdb28284ef)](https://www.youtube.com/@mobiledevpro/)
 
+## 
+### ⚡ Work projects - apps from scratch
+- [PDF Maker](https://play.google.com/store/apps/details?id=imagetopdf.pdfmaker.pdfscanner.pdfeditor.jpgtopdf) - live (Apr 2024 - in development)
+- [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) - live (Feb 2019 - Nov 2020; support continues)
+- [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new) - live (June 2018 - June 2023)
+- [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite) - live (Jan 2017 - June 2023)
+- [Real Estate Vids](https://play.google.com/store/apps/details?id=com.lesa.realestate) - live (2021 - Oct 2022)
+- [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/) - discontinued
 
 
 ## 
@@ -58,18 +67,7 @@ Since 2015 I've mostly been dealing with Android Development and building modern
 * OpenCV and/or OpenGL for image editing.
 
 ## 
-### ⚡ Projects - apps built from scratch
-- [PDF Maker](https://play.google.com/store/apps/details?id=imagetopdf.pdfmaker.pdfscanner.pdfeditor.jpgtopdf) - live (Apr 2024 - in development)
-- [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) - live (Feb 2019 - Nov 2020; support continues)
-- [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new) - live (June 2018 - June 2023)
-- [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite) - live (Jan 2017 - June 2023)
-- [Real Estate Vids](https://play.google.com/store/apps/details?id=com.lesa.realestate) - live (2021 - Oct 2022)
-- [QR Barcode reader](https://play.google.com/store/apps/details?id=com.mobiledevpro.barcodescanner) - live
-- [COVID-19 Live Tracker WorldWide (open source)](https://github.com/dmitriy-chernysh/covid-19-tracker-android) - discontinued
-- [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/) - discontinued
-
-## 
-### ⭐️⭐️⭐️⭐️⭐️ Some feedback from my clients:
+### ⭐️⭐️⭐️⭐️⭐️ Some feedback from clients:
 * "Working with Dmitriy was the best experience with a freelancer in my 25-year IT career." - Ante M.
 
 * "Dmitriy is a great contractor. He went above and beyond solving our issues. The best developer I had an opportunity to work with. It was a pleasure!" - Aleksandre.
@@ -83,7 +81,7 @@ Since 2015 I've mostly been dealing with Android Development and building modern
 * "I've been extremely pleased with Dmitri's development skills, communication, and personality." - Jeff
 
 
-[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Hire+me+on)](https://www.upwork.com/freelancers/dmitrich)
+[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Work+with+me+on)](https://www.upwork.com/freelancers/dmitrich)
 
 
 ## 
