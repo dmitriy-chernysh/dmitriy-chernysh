@@ -22,7 +22,7 @@
 
 ## 
 ### ⚡ Indie apps
-- [Screenshot Maker - NeonFrame.app](https://neonframe.app?utm_source=github_main_profile) - Make engaging screenshots with ease - [The story & progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
+- [Screenshot Maker - NeonFrame.app](https://play.google.com/store/apps/details?id=com.mobiledevpro.neonframe.app&utm_source=github_main_profile) - Make engaging screenshots with ease - [The story & progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
 - [CloseTalk.app | Android | Open source](https://github.com/mobiledevpro/closetalk.app) - Connect with people near you, neighbors, coworkers, gym bros - [The story](https://www.instagram.com/stories/highlights/17979507133965779/)
 - [TickerAlerter.app | Desktop](https://tickeralerter.app/) - Setup price alerts in seconds | For crypto trading - [The story](https://www.instagram.com/stories/highlights/17958544361356879/)
 - [COVID-19 Live Tracker WorldWide | Android | Open source](https://github.com/dmitriy-chernysh/covid-19-tracker-android) - discontinued
