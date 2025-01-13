@@ -34,7 +34,7 @@
 [![image](https://github.com/user-attachments/assets/716fea26-5295-45f1-8086-b7bdb28284ef)](https://www.youtube.com/@mobiledevpro/)
 
 ## 
-### ⚡ Work projects - apps from scratch
+### ⚡ My works - apps built from scratch
 - [PDF Maker](https://play.google.com/store/apps/details?id=imagetopdf.pdfmaker.pdfscanner.pdfeditor.jpgtopdf) - live (Apr 2024 - in development)
 - [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) - live (Feb 2019 - Nov 2020; support continues)
 - [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new) - live (June 2018 - June 2023)
