@@ -4,11 +4,11 @@
 [<img alt="Badge" height="20px" src="https://androidweekly.net/issues/issue-619/badge">](https://androidweekly.net/issues/issue-619/)
 
 ##
-### :speech_balloon: Need help with the project or have questions? Feel free to reach out:
-[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Tech+insights+on&label=Tech+insights+on&logoColor=white)](https://www.instagram.com/mobiledevpro/)
-[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&label=Watch+on)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
-[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=LinkedIn&logoColor=white&label=Read+on)](https://www.linkedin.com/in/dmitriychernysh/)
-[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white&label=Read+on)](https://twitter.com/mobiledev_pro)
+### :speech_balloon: Follow for more:
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Tech+insights+on&label=Tech+insights+on&logoColor=white&style=for-the-badge)](https://www.instagram.com/mobiledevpro/)
+[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&label=Watch+on&style=for-the-badge)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
+[![Patreon](https://img.shields.io/badge/-patreon-f2a09b?logo=patreon&logoColor=white&label=Read+on&style=for-the-badge)](https://patreon.com/mobiledevpro)
+[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=LinkedIn&logoColor=white&label=Follow+on&style=for-the-badge)](https://www.linkedin.com/in/dmitriychernysh/)
 ##
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=closetalk.app&theme=dark&PAT_1=1111222)](https://github.com/mobiledevpro/closetalk.app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=tickeralerter.desktop&theme=dark&PAT_1=1111223)](https://github.com/mobiledevpro/tickeralerter.desktop)
@@ -25,9 +25,10 @@
 ### ⚡ Indie apps
 - [Screenshot Maker - NeonFrame.app](https://play.google.com/store/apps/details?id=com.mobiledevpro.neonframe.app&utm_source=github_main_profile) - Make engaging screenshots with ease - [The story & progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
 - [CloseTalk.app | Android | Open source](https://github.com/mobiledevpro/closetalk.app) - Connect with people near you, neighbors, coworkers, gym bros - [The story](https://www.instagram.com/stories/highlights/17979507133965779/)
-- [TickerAlerter.app | Desktop](https://youtube.com/playlist?list=PL9IBbMupfHWr9c5Z1n-1x9sFABcdGVe93&si=Y75zIdpQS_EUAo-d) - Setup price alerts in seconds | For crypto trading - [The story](https://www.instagram.com/stories/highlights/17958544361356879/)
+- [TickerAlerter.app | KMP, Desktop | Open source](https://github.com/mobiledevpro/tickeralerter.desktop) - Setup price alerts in seconds | For crypto trading - [The story](https://www.instagram.com/stories/highlights/17958544361356879/)
 - [COVID-19 Live Tracker WorldWide | Android | Open source](https://github.com/dmitriy-chernysh/covid-19-tracker-android) - discontinued
 - [QR Barcode reader](https://play.google.com/store/apps/details?id=com.mobiledevpro.barcodescanner) - live
+
 
 ##
 ### ▶️ [Watch on Youtube](https://www.youtube.com/@mobiledevpro/)
@@ -82,7 +83,7 @@ Since 2015 I've mostly been dealing with Android Development and building modern
 * "I've been extremely pleased with Dmitri's development skills, communication, and personality." - Jeff
 
 
-[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Work+with+me+on)](https://www.upwork.com/freelancers/dmitrich)
+[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Work+with+me+on&style=for-the-badge)](https://www.upwork.com/freelancers/dmitrich)
 
 
 ## 
