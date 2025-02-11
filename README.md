@@ -18,7 +18,6 @@
 ##
 ### :point_right: Guides
 - [The Power of GitHub Actions 2024](https://www.patreon.com/mobiledevpro/shop/power-of-github-actions-complete-guide-943321)
-- [Integrating Deep linking into Android app](https://mobiledevpro.gumroad.com/l/deep-links)
 
 
 ## 
@@ -83,7 +82,7 @@ Since 2015 I've mostly been dealing with Android Development and building modern
 * "I've been extremely pleased with Dmitri's development skills, communication, and personality." - Jeff
 
 
-[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Work+with+me+on&style=for-the-badge)](https://www.upwork.com/freelancers/dmitrich)
+[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Hire+me+on&style=for-the-badge)](https://www.upwork.com/freelancers/dmitrich)
 
 
 ## 
