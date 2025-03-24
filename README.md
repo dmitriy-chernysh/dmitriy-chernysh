@@ -22,7 +22,8 @@
 
 ## 
 ### ⚡ Indie apps
-- [Screenshot Maker - NeonFrame.app](https://play.google.com/store/apps/details?id=com.mobiledevpro.neonframe.app&utm_source=github_main_profile) - Make engaging screenshots with ease - [The story & progress here](https://www.instagram.com/stories/highlights/18007174618958014/)
+- Habit Tracker - Coming... [The story & progress on IG](https://www.instagram.com/stories/highlights/18330975238092077/)
+- [Screenshot Maker - NeonFrame.app](https://play.google.com/store/apps/details?id=com.mobiledevpro.neonframe.app&utm_source=github_main_profile) - Make engaging screenshots with ease - [The story & progress on IG](https://www.instagram.com/stories/highlights/18007174618958014/)
 - [CloseTalk.app | Android | Open source](https://github.com/mobiledevpro/closetalk.app) - Connect with people near you, neighbors, coworkers, gym bros - [The story](https://www.instagram.com/stories/highlights/17979507133965779/)
 - [TickerAlerter.app | KMP, Desktop | Open source](https://github.com/mobiledevpro/tickeralerter.desktop) - Setup price alerts in seconds | For crypto trading - [The story](https://www.instagram.com/stories/highlights/17958544361356879/)
 - [COVID-19 Live Tracker WorldWide | Android | Open source](https://github.com/dmitriy-chernysh/covid-19-tracker-android) - discontinued
@@ -69,6 +70,8 @@ Since 2015 I've mostly been dealing with Android Development and building modern
 
 ## 
 ### ⭐️⭐️⭐️⭐️⭐️ Some feedback from clients:
+* "Dmitriy went over and beyond my expectations and became a crucial part of our team. He is very knowledgable and proactive and would be an asset to any company looking for Android app development." - Jeff
+  
 * "Working with Dmitriy was the best experience with a freelancer in my 25-year IT career." - Ante M.
 
 * "Dmitriy is a great contractor. He went above and beyond solving our issues. The best developer I had an opportunity to work with. It was a pleasure!" - Aleksandre.
@@ -82,7 +85,7 @@ Since 2015 I've mostly been dealing with Android Development and building modern
 * "I've been extremely pleased with Dmitri's development skills, communication, and personality." - Jeff
 
 
-[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Hire+me+on&style=for-the-badge)](https://www.upwork.com/freelancers/dmitrich)
+[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Invite+to+a+project&style=for-the-badge)](https://www.upwork.com/freelancers/dmitrich)
 
 
 ## 
