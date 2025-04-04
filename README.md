@@ -5,10 +5,11 @@
 
 ##
 ### :speech_balloon: Follow for more:
-[![Patreon](https://img.shields.io/badge/-patreon-ff0000?logo=patreon&logoColor=white&label=Join+on&style=for-the-badge)](https://patreon.com/mobiledevpro)
-[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Tech+insights+on&label=Tech+insights+on&logoColor=white&style=for-the-badge)](https://www.instagram.com/mobiledevpro/)
-[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&label=Watch+on&style=for-the-badge)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
-[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=LinkedIn&logoColor=white&label=Follow+on&style=for-the-badge)](https://www.linkedin.com/in/dmitriychernysh/)
+[![Patreon](https://img.shields.io/badge/-patreon-ff0000?logo=patreon&logoColor=white&label=Read+on&style=for-the-badge)](https://patreon.com/mobiledevpro)
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&label=Behind+the+scene&logoColor=white&style=for-the-badge)](https://www.instagram.com/mobiledevpro/)
+[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&style=for-the-badge)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
+[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dmitriychernysh/)
+[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&style=for-the-badge)](https://www.upwork.com/freelancers/dmitrich)
 ##
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=closetalk.app&theme=dark&PAT_1=1111222)](https://github.com/mobiledevpro/closetalk.app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=tickeralerter.desktop&theme=dark&PAT_1=1111223)](https://github.com/mobiledevpro/tickeralerter.desktop)
@@ -85,7 +86,7 @@ Since 2015 I've mostly been dealing with Android Development and building modern
 * "I've been extremely pleased with Dmitri's development skills, communication, and personality." - Jeff
 
 
-[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Invite+to+a+project&style=for-the-badge)](https://www.upwork.com/freelancers/dmitrich)
+[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Work+with+me&style=for-the-badge)](https://www.upwork.com/freelancers/dmitrich)
 
 
 ## 
