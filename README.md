@@ -49,7 +49,7 @@
 ## 
 ### 👋 About me
   
-I'm a Software Engineer from Ukraine with 15 years of experience in Software Development.
+I'm a Software Engineer from Ukraine with 14 years of experience in Software Development.
 
 Since 2015 I've mostly been dealing with Android Development and building modern [native] apps for Phone and Tablet devices running on Android 6+ .
 
