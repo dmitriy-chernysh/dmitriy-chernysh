@@ -18,7 +18,7 @@
 
 ##
 ### :point_right: Guides
-- [The Power of GitHub Actions 2024 | Complete Guide | 37-page PDF + Notion](https://mobiledevpro.gumroad.com/l/zjbvsd/6w73yjj)
+- [The Power of GitHub Actions 2024 | Complete Guide | 37-page PDF + Notion](https://mobiledevpro.gumroad.com/l/zjbvsd)
 
 
 ## 
