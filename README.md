@@ -4,12 +4,19 @@
 [<img alt="Badge" height="20px" src="https://androidweekly.net/issues/issue-619/badge">](https://androidweekly.net/issues/issue-619/)
 
 ##
-### :speech_balloon: Follow for more:
-[![Patreon](https://img.shields.io/badge/-patreon-ff0000?logo=patreon&logoColor=white&label=Read+on&style=for-the-badge)](https://patreon.com/mobiledevpro)
-[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&label=Dev+insights&logoColor=white&style=for-the-badge)](https://www.instagram.com/mobiledevpro/)
-[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&style=for-the-badge)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
+### For business inquiries or freelance project
+
+[![Email](https://img.shields.io/badge/-email-white?logo=gmail&logoColor=red&style=for-the-badge)](mailto:dmitriy.chernysh@mobile-dev.pro)
+[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&style=for-the-badge)](https://www.upwork.com/freelancers/dmitrich)
+
+##
+### :speech_balloon: Follow for more
+
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&label=Dev+Log+series+on&logoColor=white&style=for-the-badge)](https://www.instagram.com/mobiledevpro/)
+[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&label=Subsribe+on&style=for-the-badge)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
 [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dmitriychernysh/)
-[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&style=for-the-badge&label=Work+with+me)](https://www.upwork.com/freelancers/dmitrich)
+[![Patreon](https://img.shields.io/badge/-patreon-ff0000?logo=patreon&logoColor=white&label=Read+on&style=for-the-badge)](https://patreon.com/mobiledevpro)
+
 ##
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=closetalk.app&theme=dark&PAT_1=1111222)](https://github.com/mobiledevpro/closetalk.app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=tickeralerter.desktop&theme=dark&PAT_1=1111223)](https://github.com/mobiledevpro/tickeralerter.desktop)
@@ -23,7 +30,8 @@
 
 ## 
 ### ⚡ Indie apps
-- Habit Tracker - Coming... [The story & progress on IG](https://www.instagram.com/stories/highlights/18330975238092077/)
+- Habit Tracker - Coming next... [The story & progress on IG](https://www.instagram.com/stories/highlights/18330975238092077/)
+- [Sign PDF - Reader & Manager | Android](https://play.google.com/store/apps/details?id=com.mobiledevpro.signpdf.pdfreader.app) - live
 - [Screenshot Maker - NeonFrame.app](https://play.google.com/store/apps/details?id=com.mobiledevpro.neonframe.app&utm_source=github_main_profile) - Make engaging screenshots with ease - [The story & progress on IG](https://www.instagram.com/stories/highlights/18007174618958014/)
 - [CloseTalk.app | Android | Open source](https://github.com/mobiledevpro/closetalk.app) - Connect with people near you, neighbors, coworkers, gym bros - [The story](https://www.instagram.com/stories/highlights/17979507133965779/)
 - [TickerAlerter.app | KMP, Desktop | Open source](https://github.com/mobiledevpro/tickeralerter.desktop) - Setup price alerts in seconds | For crypto trading - [The story](https://www.instagram.com/stories/highlights/17958544361356879/)
@@ -34,11 +42,13 @@
 ##
 ### ▶️ [Watch on Youtube](https://www.youtube.com/@mobiledevpro/)
 
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCMlOeo2u03BC28qXkpnA5Vw?style=flat)
+
 [![image](https://github.com/user-attachments/assets/716fea26-5295-45f1-8086-b7bdb28284ef)](https://www.youtube.com/@mobiledevpro/)
 
 ## 
 ### ⚡ My works - apps built from scratch
-- [PDF Maker](https://play.google.com/store/apps/details?id=imagetopdf.pdfmaker.pdfscanner.pdfeditor.jpgtopdf) - live (Apr 2024 - in development)
+- [PDF Maker](https://play.google.com/store/apps/details?id=imagetopdf.pdfmaker.pdfscanner.pdfeditor.jpgtopdf) - live (Apr 2024 - Oct 2025; support continues)
 - [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) - live (Feb 2019 - Nov 2020; support continues)
 - [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new) - live (June 2018 - June 2023)
 - [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite) - live (Jan 2017 - June 2023)
