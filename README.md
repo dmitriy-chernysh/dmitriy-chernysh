@@ -25,7 +25,7 @@
 
 ##
 ### :point_right: Guides
-- [The Power of GitHub Actions 2024 | Complete Guide | 37-page PDF + Notion](https://mobiledevpro.gumroad.com/l/zjbvsd)
+- [The Power of GitHub Actions | Workflows to automate testing, signing, deploying to Google Play | 37-page PDF + Notion](https://mobiledevpro.gumroad.com/l/zjbvsd)
 
 
 ## 
