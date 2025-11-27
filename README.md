@@ -12,7 +12,7 @@
 ### :speech_balloon: Social links
 
 [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&label=Dev+Log+series+on&logoColor=white&style=for-the-badge)](https://www.instagram.com/mobiledevpro/)
-[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&label=Subsribe+on&style=for-the-badge)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
+[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&label=Watch+on&style=for-the-badge)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
 [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge&label=Read+on)](https://www.linkedin.com/in/dmitriychernysh/)
 [![Patreon](https://img.shields.io/badge/-patreon-ff0000?logo=patreon&logoColor=white&label=Join+on&style=for-the-badge)](https://patreon.com/mobiledevpro)
 
@@ -30,7 +30,7 @@
 ## 
 ### ⚡ Indie apps
 - Habit Tracker - Coming next... [The story & progress on IG](https://www.instagram.com/stories/highlights/18330975238092077/)
-- [Sign PDF - Reader & Manager | Android](https://play.google.com/store/apps/details?id=com.mobiledevpro.signpdf.pdfreader.app) - live
+- [Sign PDF - Document signer | Android](https://play.google.com/store/apps/details?id=com.mobiledevpro.signpdf.pdfreader.app) - live
 - [Screenshot Maker - NeonFrame.app](https://play.google.com/store/apps/details?id=com.mobiledevpro.neonframe.app&utm_source=github_main_profile) - Make engaging screenshots with ease - [The story & progress on IG](https://www.instagram.com/stories/highlights/18007174618958014/)
 - [CloseTalk.app | Android | Open source](https://github.com/mobiledevpro/closetalk.app) - Connect with people near you, neighbors, coworkers, gym bros - [The story](https://www.instagram.com/stories/highlights/17979507133965779/)
 - [TickerAlerter.app | KMP, Desktop | Open source](https://github.com/mobiledevpro/tickeralerter.desktop) - Setup price alerts in seconds | For crypto trading - [The story](https://www.instagram.com/stories/highlights/17958544361356879/)
