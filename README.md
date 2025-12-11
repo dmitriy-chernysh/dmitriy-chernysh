@@ -11,18 +11,18 @@
 ##
 ### :speech_balloon: Social links
 
-[![Patreon](https://img.shields.io/badge/-patreon-ff0000?logo=patreon&logoColor=white&label=Join+on&style=for-the-badge)](https://patreon.com/mobiledevpro)
+[![Patreon](https://img.shields.io/badge/-patreon-ff0000?logo=patreon&logoColor=white&label=Be+my+Patron&style=for-the-badge)](https://patreon.com/mobiledevpro)
 [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&label=Dev+Log+series+on&logoColor=white&style=for-the-badge)](https://www.instagram.com/mobiledevpro/)
 [![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&label=Watch+on&style=for-the-badge)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
 [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge&label=Read+on)](https://www.linkedin.com/in/dmitriychernysh/)
 
-
+<!--
 ##
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=closetalk.app&theme=dark&PAT_1=1111222)](https://github.com/mobiledevpro/closetalk.app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=tickeralerter.desktop&theme=dark&PAT_1=1111223)](https://github.com/mobiledevpro/tickeralerter.desktop)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Android-Kotlin-MVVM-Template&theme=dark&PAT_1=111122)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=neonframe.page&theme=dark&PAT_1=11122)](https://github.com/mobiledevpro/neonframe.page)
-
+-->
 ##
 ### :point_right: Guides
 - [The Power of GitHub Actions | Workflows to automate testing, signing, deploying to Google Play | 37-page PDF + Notion](https://mobiledevpro.gumroad.com/l/zjbvsd)
@@ -40,11 +40,13 @@
 
 
 ##
-### ▶️ [Watch on Youtube](https://www.youtube.com/@mobiledevpro/)
+### ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCMlOeo2u03BC28qXkpnA5Vw?style=flat) The Dev Log Series [on Youtube](https://www.youtube.com/@mobiledevpro/)
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCMlOeo2u03BC28qXkpnA5Vw?style=flat)
 
-[![image](https://github.com/user-attachments/assets/716fea26-5295-45f1-8086-b7bdb28284ef)](https://www.youtube.com/@mobiledevpro/)
+
+[![image](https://github.com/user-attachments/assets/227bb747-c113-4a15-bb64-a1f4042c0fff)](https://www.youtube.com/@mobiledevpro/)
+
+
 
 ## 
 ### ⚡ My works - apps built from scratch
