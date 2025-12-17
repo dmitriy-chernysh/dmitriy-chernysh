@@ -8,21 +8,27 @@
 
 [![Email](https://img.shields.io/badge/-email-white?logo=gmail&logoColor=red&style=for-the-badge)](mailto:dmitriy.chernysh@mobile-dev.pro)
 
+[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&style=for-the-badge)](https://www.upwork.com/freelancers/dmitrich)
+
+
 ##
 ### :speech_balloon: Social links
 
-[![Patreon](https://img.shields.io/badge/-patreon-ff0000?logo=patreon&logoColor=white&label=Be+my+Patron&style=for-the-badge)](https://patreon.com/mobiledevpro)
+[![Patreon](https://img.shields.io/badge/-patreon-ff0000?logo=patreon&logoColor=white&label=Read+on&style=for-the-badge)](https://patreon.com/mobiledevpro)
 [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&label=Dev+Log+series+on&logoColor=white&style=for-the-badge)](https://www.instagram.com/mobiledevpro/)
 [![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&label=Watch+on&style=for-the-badge)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
-[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge&label=Read+on)](https://www.linkedin.com/in/dmitriychernysh/)
 
-<!--
+[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge&label=Read+on)](https://www.linkedin.com/in/dmitriychernysh/)
+[![Google Play](https://img.shields.io/badge/-googleplay-2f80ed?logo=GooglePlay&logoColor=white&style=for-the-badge&label=Apps+on)](https://play.google.com/store/apps/dev?id=7631714305615136969)
+
+
 ##
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=closetalk.app&theme=dark&PAT_1=1111222)](https://github.com/mobiledevpro/closetalk.app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=tickeralerter.desktop&theme=dark&PAT_1=1111223)](https://github.com/mobiledevpro/tickeralerter.desktop)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Android-Kotlin-MVVM-Template&theme=dark&PAT_1=111122)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=neonframe.page&theme=dark&PAT_1=11122)](https://github.com/mobiledevpro/neonframe.page)
--->
+
+
 ##
 ### :point_right: Guides
 - [The Power of GitHub Actions | Workflows to automate testing, signing, deploying to Google Play | 37-page PDF + Notion](https://mobiledevpro.gumroad.com/l/zjbvsd)
@@ -66,7 +72,7 @@ I'm a Software Engineer from Ukraine with 14 years of experience in Software Dev
 Since 2015 I've mostly been dealing with Android Development and building modern [native] apps for Phone and Tablet devices running on Android 6+ .
 
 ## 
-### :heavy_check_mark: In 2024-2025 my main tech. stack
+### :heavy_check_mark: In 2025 my main tech. stack
 
 * Android SDK, Gradle Build tool.
 * Kotlin, Coroutines, RxJava/RxAndroid, Koin, Retrofit, Room.
@@ -83,6 +89,8 @@ Since 2015 I've mostly been dealing with Android Development and building modern
 
 ## 
 ### ⭐️⭐️⭐️⭐️⭐️ Some feedback from clients:
+* "Great working with Dmitriy, he is quick to deliver and communicates very well. Will definitely work with him again." - Tosin
+  
 * "Dmitriy went over and beyond my expectations and became a crucial part of our team. He is very knowledgable and proactive and would be an asset to any company looking for Android app development." - Jeff
   
 * "Working with Dmitriy was the best experience with a freelancer in my 25-year IT career." - Ante M.
@@ -98,7 +106,7 @@ Since 2015 I've mostly been dealing with Android Development and building modern
 * "I've been extremely pleased with Dmitri's development skills, communication, and personality." - Jeff
 
 
-[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Work+with+me&style=for-the-badge)](https://www.upwork.com/freelancers/dmitrich)
+[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Contact+me+on&style=for-the-badge)](https://www.upwork.com/freelancers/dmitrich)
 
 
 ## 
