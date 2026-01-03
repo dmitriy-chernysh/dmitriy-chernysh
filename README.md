@@ -23,7 +23,7 @@
 
 
 ##
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=closetalk.app&theme=dark&PAT_1=1111222)](https://github.com/mobiledevpro/closetalk.app)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=closetalk.app&theme=dark&PAT_1=1111223)](https://github.com/mobiledevpro/closetalk.app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=tickeralerter.desktop&theme=dark&PAT_1=1111223)](https://github.com/mobiledevpro/tickeralerter.desktop)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=Android-Kotlin-MVVM-Template&theme=dark&PAT_1=111122)](https://github.com/mobiledevpro/Android-Kotlin-MVVM-Template)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobiledevpro&repo=neonframe.page&theme=dark&PAT_1=11122)](https://github.com/mobiledevpro/neonframe.page)
@@ -33,6 +33,10 @@
 ### :point_right: Guides
 - [The Power of GitHub Actions | Workflows to automate testing, signing, deploying to Google Play | 37-page PDF + Notion](https://mobiledevpro.gumroad.com/l/zjbvsd)
 
+### :point_right: Latest on Patreon:
+- [Hands-on with on-device AI for PDF / Text summarization. Cactus Compute on Android. Demo app in Chat GPT style + source code](https://www.patreon.com/posts/hands-on-with-on-144600299?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
+- [How to fix "Your app uses deprecated APIs or parameters for edge-to-edge" you see on Google Play. Tested on Android 10 - 16](https://www.patreon.com/posts/how-to-fix-your-147256165?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
+- [Memory usage improvements for GetPDFSigned.app](https://www.patreon.com/posts/building-app-v1-143526724?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
 
 ## 
 ### ⚡ Indie apps
