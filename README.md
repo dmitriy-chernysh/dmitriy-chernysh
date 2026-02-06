@@ -22,7 +22,7 @@
 
 ##
 ### :point_right: Guides
-- [The Power of GitHub Actions | Workflows to automate testing, signing, deploying to Google Play | 37-page PDF + Notion](https://mobiledevpro.gumroad.com/l/zjbvsd)
+- [The Power of GitHub Actions | 37-page PDF + Notion](https://www.patreon.com/posts/power-of-github-147961648)
 
 ### :point_right: Latest on Patreon:
 - [Hands-on with on-device AI for PDF / Text summarization. Cactus Compute on Android. Demo app in Chat GPT style + source code](https://www.patreon.com/posts/hands-on-with-on-144600299?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
