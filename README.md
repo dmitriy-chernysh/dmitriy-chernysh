@@ -13,21 +13,17 @@
 ##
 ### :speech_balloon: Social links
 
-[![Patreon](https://img.shields.io/badge/-patreon-ff0000?logo=patreon&logoColor=white&label=Read+on&style=for-the-badge)](https://patreon.com/mobiledevpro)
-[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&label=Dev+Log+series+on&logoColor=white&style=for-the-badge)](https://www.instagram.com/mobiledevpro/)
-[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&label=Watch+on&style=for-the-badge)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
+[![Patreon](https://img.shields.io/badge/-patreon-ff0000?logo=patreon&logoColor=white&label=Dev+Notes&style=for-the-badge)](https://patreon.com/mobiledevpro)
+[![Google Play](https://img.shields.io/badge/-googleplay-2f80ed?logo=GooglePlay&logoColor=white&style=for-the-badge&label=Indie+Apps)](https://play.google.com/store/apps/dev?id=7631714305615136969)
 
-[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge&label=Read+on)](https://www.linkedin.com/in/dmitriychernysh/)
-[![Google Play](https://img.shields.io/badge/-googleplay-2f80ed?logo=GooglePlay&logoColor=white&style=for-the-badge&label=Indie+Apps+on)](https://play.google.com/store/apps/dev?id=7631714305615136969)
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/mobiledevpro/)
+[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&style=for-the-badge)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
+[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dmitriychernysh/)
+
 
 ##
 ### :point_right: Guides
 - [The Power of GitHub Actions | 37-page PDF + Notion](https://www.patreon.com/posts/power-of-github-147961648)
-
-### :point_right: Latest on Patreon:
-- [Hands-on with on-device AI for PDF / Text summarization. Cactus Compute on Android. Demo app in Chat GPT style + source code](https://www.patreon.com/posts/hands-on-with-on-144600299?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
-- [How to fix "Your app uses deprecated APIs or parameters for edge-to-edge" you see on Google Play. Tested on Android 10 - 16](https://www.patreon.com/posts/how-to-fix-your-147256165?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
-- [Memory usage improvements for GetPDFSigned.app](https://www.patreon.com/posts/building-app-v1-143526724?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
 
 ## 
 ### ⚡ Indie apps
@@ -52,7 +48,7 @@
 
 ## 
 ### ⚡ My works - apps built from scratch
-- [PDF Maker](https://play.google.com/store/apps/details?id=imagetopdf.pdfmaker.pdfscanner.pdfeditor.jpgtopdf) - live (Apr 2024 - Oct 2025; support continues)
+- [PDF Maker](https://play.google.com/store/apps/details?id=imagetopdf.pdfmaker.pdfscanner.pdfeditor.jpgtopdf) - live (Apr 2024 - Oct 2025)
 - [COMQUEST for COMLEX and COMAT | ExamGuru](https://play.google.com/store/apps/details?id=exam.comquest.test) - live (Feb 2019 - Nov 2020; support continues)
 - [Dealer Video Inventory](https://play.google.com/store/apps/details?id=com.lesa.videoinventory.stream.new) - live (June 2018 - June 2023)
 - [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite) - live (Jan 2017 - June 2023)
