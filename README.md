@@ -7,7 +7,7 @@
 ### :mailbox_with_mail: For business inquiries
 
 [![Email](https://img.shields.io/badge/-email-white?logo=gmail&logoColor=red&style=for-the-badge)](mailto:dmitriy.chernysh@mobile-dev.pro)
-[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&style=for-the-badge)](https://www.upwork.com/freelancers/dmitrich)
+[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&style=for-the-badge)](https://www.upwork.com/services/product/development-it-dmitriy-2014048029086121797?ref=project_share)
 
 
 ##
@@ -36,8 +36,7 @@
 
 
 ##
-### ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCMlOeo2u03BC28qXkpnA5Vw?style=flat) The Dev Log Series [on Youtube](https://www.youtube.com/@mobiledevpro/)
-
+### ![YouTube Channel Views](https://github.com/user-attachments/assets/14df4b91-2585-4cbf-ac30-6c57d6f79790?style=flat) The Dev Log Series [on Youtube](https://www.youtube.com/@mobiledevpro/)
 
 
 [![image](https://github.com/user-attachments/assets/bb72e808-e82f-4705-9717-bde1e426aa56)](https://www.youtube.com/@mobiledevpro/)
@@ -69,7 +68,7 @@
 * *"Dmitriy did an outstanding job on this project. The quality of his work exceeded my expectations, and he delivered everything on time. Communication was clear and responsive throughout, and he was receptive to feedback and revisions."* - Tosin
   
 
-[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=More+on&style=for-the-badge)](https://www.upwork.com/freelancers/dmitrich)
+[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=More+on&style=for-the-badge)](https://www.upwork.com/services/product/development-it-dmitriy-2014048029086121797?ref=project_share)
 
 ## 
 ### 👋 About me
