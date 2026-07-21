@@ -36,12 +36,10 @@
 
 
 ##
-### ![YouTube Channel Views](https://github.com/user-attachments/assets/14df4b91-2585-4cbf-ac30-6c57d6f79790?style=flat) The Dev Log Series [on Youtube](https://www.youtube.com/@mobiledevpro/)
+### ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCMlOeo2u03BC28qXkpnA5Vw?style=flat) [on Youtube](https://www.youtube.com/@mobiledevpro/)
 
 
-[![image](https://github.com/user-attachments/assets/bb72e808-e82f-4705-9717-bde1e426aa56)](https://www.youtube.com/@mobiledevpro/)
-
-
+[![image](https://github.com/user-attachments/assets/0ef89b81-99ee-4176-901a-ca30b62b68fa)](https://www.youtube.com/@mobiledevpro/)
 
 
 ## 
