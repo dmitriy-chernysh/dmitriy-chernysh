@@ -25,8 +25,8 @@
 ##
 
 ### 🚀 Latest client projects
-* 📱 [PDF Maker - Edit & Read PDF](https://play.google.com/store/apps/details?id=imagetopdf.pdfmaker.pdfscanner.pdfeditor.jpgtopdf) — Built from 0 to launch, hit **140k+ downloads**, 4.6★ rating, and 99.9% crash-free rate.
-* 📱 [COMQUEST - EdTech Solution for Medical students](https://play.google.com/store/apps/details?id=exam.comquest.test) — Built from 0 to launch
+* 📱 [PDF Maker - Edit & Read PDF](https://play.google.com/store/apps/details?id=imagetopdf.pdfmaker.pdfscanner.pdfeditor.jpgtopdf) - Built from 0 to launch, hit **140k+ downloads**, 4.6★ rating, and 99.9% crash-free rate.
+* 📱 [COMQUEST - EdTech Solution for Medical students](https://play.google.com/store/apps/details?id=exam.comquest.test) - Built from 0 to launch
 
 
 ### 🚀 Indie products
