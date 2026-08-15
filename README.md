@@ -17,22 +17,22 @@
 ##
 
 ### 🚨 Emergency fixes and services
-* ⚡ **16 KB Memory Page-Size Alignment:** NDK recompilation, C/C++ `.so` library rebuilds & Google Play 2027 compliance.
-* 🛡️ **Target SDK 36+ & Google Play Policy Fixes:** Urgent updates, permission migrations, and app removal appeals.
-* 🤖 **On-Device AI Integration:** Private, zero-cost local LLMs (Gemma, MediaPipe, LiteRT, Googel ML Kit).
-* 📱 **End-to-End Android Development:** Full-cycle development from Figma designs or MVP to Google Play launch (Kotlin, Jetpack Compose, modularization).
+*  **16 KB Memory page-size alignment:** NDK recompilation, C/C++ `.so` library rebuilds & Google Play 2027 compliance.
+*  **Target SDK 36+ & Google Play Policy fixes:** Urgent updates, permission migrations, and app removal appeals.
+*  **On-device AI Integration:** Private, zero-cost local LLMs (Gemma, MediaPipe, LiteRT, Googel ML Kit).
+*  **End-to-end Android Development:** Full-cycle development from Figma designs or MVP to Google Play launch (Kotlin, Jetpack Compose, modularization).
 
 ##
 
 ### 🚀 Latest client projects
-* 📱 [PDF Maker - Edit & Read PDF](https://play.google.com/store/apps/details?id=imagetopdf.pdfmaker.pdfscanner.pdfeditor.jpgtopdf) - Built from 0 to launch, hit **140k+ downloads**, 4.6★ rating, and 99.9% crash-free rate.
-* 📱 [COMQUEST - EdTech Solution for Medical students](https://play.google.com/store/apps/details?id=exam.comquest.test) - Built from 0 to launch
+*  [PDF Maker - Edit & Read PDF](https://play.google.com/store/apps/details?id=imagetopdf.pdfmaker.pdfscanner.pdfeditor.jpgtopdf) - Built from 0 to launch, hit **140k+ downloads**, 4.6★ rating, and 99.9% crash-free rate.
+*  [COMQUEST - EdTech Solution for Medical students](https://play.google.com/store/apps/details?id=exam.comquest.test) - Built from 0 to launch
 
 
 ### 🚀 Indie products
-* ✍️ [Sign PDF - PDF Signer](https://getpdfsigned.app) - Offline-first document signing & PDF Tool.
-* 🖼️ [Screenshot Maker - NeonFrame](https://mobile-dev.pro) - Level up your social posts.
-* 📦 [CloseTalk App Template](https://github.com/mobiledevpro/closetalk.app) - Clean architecture Android app template (**330+ ⭐ on GitHub**).
+*  [Sign PDF - PDF Signer](https://getpdfsigned.app) - Offline-first document signing & PDF Tool.
+*  [Screenshot Maker - NeonFrame](https://mobile-dev.pro) - Level up your social posts.
+*  [CloseTalk App Template](https://github.com/mobiledevpro/closetalk.app) - Clean architecture Android app template (**330+ ⭐ on GitHub**).
 
 <!--
 ---
@@ -83,10 +83,10 @@
 
 ### 🛠️ 2026 Core tech stack
 * **Language & UI:** Kotlin, Jetpack Compose, Material 3, Coroutines & Kotlin Flow.
-* **Architecture:** MVI / Clean Architecture, Multi-Module Setup, Koin, Room DB.
-* **Performance & Native:** C++ / NDK, 16 KB Page Alignment, OpenCV, OpenGL, FFmpeg.
+* **Architecture:** MVI / Clean Architecture, modularization, Koin, Room DB.
+* **Performance & Native:** C++ / NDK, 16 KB page alignment, OpenCV, OpenGL, FFmpeg.
 * **AI:** MediaPipe, Google AI Edge / MediaPipe / LiteRT, Local LLMs, Google ML Kit.
-* **DevOps & Quality:** GitHub Actions (CI/CD), Automated Unit/UI Testing.
+* **DevOps & Quality:** GitHub Actions (CI/CD), Automated Unit/UI testing.
 
 
 ## 
