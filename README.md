@@ -3,12 +3,39 @@
 
 [<img alt="Badge" height="20px" src="https://androidweekly.net/issues/issue-619/badge">](https://androidweekly.net/issues/issue-619/)
 
+
+### 👋 Hi, I'm Dmitri
+**10Y Native Android Engineer & Indie Maker** helping startups and SMBs translate ideas into high-performance, offline-first apps, integrate on-device AI / LLMs, and fix performance issues.
+
+
 ##
 ### :mailbox_with_mail: For business inquiries
 
 [![Email](https://img.shields.io/badge/-email-white?logo=gmail&logoColor=red&style=for-the-badge)](mailto:dmitriy.chernysh@mobile-dev.pro)
 [![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&style=for-the-badge)](https://www.upwork.com/services/product/development-it-dmitriy-2014048029086121797?ref=project_share)
 
+##
+
+### 🚨 Emergency fixes and services
+* ⚡ **16 KB Memory Page-Size Alignment:** NDK recompilation, C/C++ `.so` library rebuilds & Google Play 2027 compliance.
+* 🛡️ **Target SDK 36+ & Google Play Policy Fixes:** Urgent updates, permission migrations, and app removal appeals.
+* 🤖 **On-Device AI Integration:** Private, zero-cost local LLMs (Gemma, MediaPipe, LiteRT, Googel ML Kit).
+* 📱 **End-to-End Android Development:** Full-cycle development from Figma designs or MVP to Google Play launch (Kotlin, Jetpack Compose, modularization).
+
+##
+
+### 🚀 Latest client projects
+* 📱 [PDF Maker - Edit & Read PDF](https://play.google.com/store/apps/details?id=imagetopdf.pdfmaker.pdfscanner.pdfeditor.jpgtopdf) — Built from 0 to launch, hit **140k+ downloads**, 4.6★ rating, and 99.9% crash-free rate.
+* 📱 [COMQUEST - EdTech Solution for Medical students](https://play.google.com/store/apps/details?id=exam.comquest.test) — Built from 0 to launch
+
+
+### 🚀 Indie products
+* ✍️ [Sign PDF - PDF Signer](https://getpdfsigned.app) - Offline-first document signing & PDF Tool.
+* 🖼️ [Screenshot Maker - NeonFrame](https://mobile-dev.pro) - Level up your social posts.
+* 📦 [CloseTalk App Template](https://github.com/mobiledevpro/closetalk.app) - Clean architecture Android app template (**330+ ⭐ on GitHub**).
+
+<!--
+---
 
 ##
 ### :speech_balloon: Social links
@@ -50,9 +77,20 @@
 - [Dealer Video Suite](https://play.google.com/store/apps/details?id=com.lesa.dealervideosuite) - live (Jan 2017 - June 2023)
 - [Real Estate Vids](https://play.google.com/store/apps/details?id=com.lesa.realestate) - live (2021 - Oct 2022)
 - [1Myle Chat App](https://www.instagram.com/p/Bi42AwDBWUx/) - discontinued
+-->
+
+##
+
+### 🛠️ 2026 Core tech stack
+* **Language & UI:** Kotlin, Jetpack Compose, Material 3, Coroutines & Kotlin Flow.
+* **Architecture:** MVI / Clean Architecture, Multi-Module Setup, Koin, Room DB.
+* **Performance & Native:** C++ / NDK, 16 KB Page Alignment, OpenCV, OpenGL, FFmpeg.
+* **AI:** MediaPipe, Google AI Edge / MediaPipe / LiteRT, Local LLMs, Google ML Kit.
+* **DevOps & Quality:** GitHub Actions (CI/CD), Automated Unit/UI Testing.
+
 
 ## 
-### ⭐️⭐️⭐️⭐️⭐️ Latest client's review about working with me:
+### ⭐️⭐️⭐️⭐️⭐️ What clients say:
 * *"Dmitriy was fantastic to work with, and I really appreciate all the hard work he put into my project. I was very new to the Android landscape, and he not only helped me work through the initial problem I was stuck on, but also guided me through the proper release process and several Play Store issues I was having.*
 
   *As an iOS developer by trade, I had a knowledge gap when it came to Android, and Dmitriy did a great job bridging that gap. He reviewed the work I was doing, suggested improvements, and helped me make better decisions for the platform. I would highly recommend Dmitriy to anyone who needs help with Android development.*
@@ -64,8 +102,17 @@
 * *"I was particularly impressed by his strong attention to detail — nothing was overlooked, and the quality of the work consistently met high standards. He showed real commitment to the project, staying engaged and proactive throughout the development process. His regularity and consistency in delivering work made collaboration smooth and reliable."* - Neil
 
 * *"Dmitriy did an outstanding job on this project. The quality of his work exceeded my expectations, and he delivered everything on time. Communication was clear and responsive throughout, and he was receptive to feedback and revisions."* - Tosin
-  
 
+##
+
+<p>
+ <a href="https://patreon.com/mobiledevpro"><img src="https://img.shields.io/badge/Dev%20Notes%20-Patreon-FF424D?style=for-the-badge&&logo=patreon&logoColor=white" alt="Patreon" /></a>
+  <a href="https://instagram.com/mobiledevpro"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://youtube.com/@mobiledevpro"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/dmitriychernysh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<!-- 
 [![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=More+on&style=for-the-badge)](https://www.upwork.com/services/product/development-it-dmitriy-2014048029086121797?ref=project_share)
 
 ## 
@@ -91,7 +138,7 @@ Since 2015 I've mostly been dealing with Android Development and building modern
 * CameraX API for photo/video capture.
 * OpenCV and OpenGL for image editing.
 
-
+-->
 
 ## 
 [![Dmitri Chernysh profile views](https://u8views.com/api/v1/github/profiles/5750211/views/day-week-month-total-count.svg)](https://u8views.com/github/dmitriy-chernysh)
