@@ -2,7 +2,7 @@
 [![github-header](https://github.com/dmitriy-chernysh/dmitriy-chernysh/assets/5750211/f2aa94f9-8920-4068-9e8e-f4beeb268aa5)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile_banner)
 
 [<img alt="Badge" height="20px" src="https://androidweekly.net/issues/issue-619/badge">](https://androidweekly.net/issues/issue-619/)
-[<img alt="Badge" height="20px" src="https://androidweekly.net/issues/issue-619/badge">](https://androidweekly.net/issues/issue-742/)
+[<img alt="Badge" height="20px" src="https://androidweekly.net/issues/issue-742/badge">](https://androidweekly.net/issues/issue-742/)
 
 
 ### 👋 Hi, I'm Dmitri
