@@ -2,6 +2,7 @@
 [![github-header](https://github.com/dmitriy-chernysh/dmitriy-chernysh/assets/5750211/f2aa94f9-8920-4068-9e8e-f4beeb268aa5)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile_banner)
 
 [<img alt="Badge" height="20px" src="https://androidweekly.net/issues/issue-619/badge">](https://androidweekly.net/issues/issue-619/)
+[<img alt="Badge" height="20px" src="https://androidweekly.net/issues/issue-619/badge">](https://androidweekly.net/issues/issue-742/)
 
 
 ### 👋 Hi, I'm Dmitri
@@ -12,7 +13,6 @@
 ### :mailbox_with_mail: For business inquiries
 
 [![Email](https://img.shields.io/badge/-email-white?logo=gmail&logoColor=red&style=for-the-badge)](mailto:dmitriy.chernysh@mobile-dev.pro)
-[![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&style=for-the-badge)](https://www.upwork.com/services/product/development-it-dmitriy-2014048029086121797?ref=project_share)
 
 ##
 
@@ -110,6 +110,7 @@
   <a href="https://instagram.com/mobiledevpro"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://youtube.com/@mobiledevpro"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://linkedin.com/in/dmitriychernysh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a href="https://www.upwork.com/services/product/development-it-dmitriy-2014048029086121797"><img src="https://img.shields.io/badge/-upwork-14a800?style=for-the-badge&logo=upwork&label=Work+with+me&logoColor=white" /></a>
 </p>
 
 <!-- 
