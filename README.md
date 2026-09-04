@@ -13,7 +13,9 @@
 ### :mailbox_with_mail: For business inquiries
 
 [![Email](https://img.shields.io/badge/-email-white?logo=gmail&logoColor=red&style=for-the-badge)](mailto:dmitriy.chernysh@mobile-dev.pro)
-   <a href="https://mobile-dev.pro"><img src="https://img.shields.io/badge/Portfolio-029791?style=for-the-badge" /></a>
+   <a href="https://mobile-dev.pro/?utm_source=gh_mail&utm_medium=social&utm_campaign=portfolio"><img src="https://img.shields.io/badge/Portfolio-029791?style=for-the-badge" /></a>
+
+  
 
 ##
 
