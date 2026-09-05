@@ -108,13 +108,12 @@
 
 ##
 
-<p>
- <a href="https://patreon.com/mobiledevpro"><img src="https://img.shields.io/badge/Dev%20Notes%20-Patreon-FF424D?style=for-the-badge&&logo=patreon&logoColor=white" alt="Patreon" /></a>
-  <a href="https://instagram.com/mobiledevpro"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://youtube.com/@mobiledevpro"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/dmitriychernysh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-   <a href="https://www.upwork.com/services/product/development-it-dmitriy-2014048029086121797"><img src="https://img.shields.io/badge/book%20consultation-14a800?style=for-the-badge" /></a>
-</p>
+<a href="https://www.upwork.com/services/product/development-it-dmitriy-2014048029086121797"><img src="https://img.shields.io/badge/book%201:1%20consultation-14a800?style=for-the-badge" /></a>
+<a href="https://mobile-dev.pro/?utm_source=gh_closetalk&utm_medium=social&utm_campaign=portfolio"><img src="https://img.shields.io/badge/mobile--dev.pro-029791?style=for-the-badge" /></a>
+[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dmitriychernysh/)
+[![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&style=for-the-badge)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
+[![Email](https://img.shields.io/badge/-Email-17273D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitriy.chernysh@mobile-dev.pro)
+
 
 <!-- 
 [![Upwork](https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=More+on&style=for-the-badge)](https://www.upwork.com/services/product/development-it-dmitriy-2014048029086121797?ref=project_share)
