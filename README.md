@@ -29,15 +29,16 @@ Specializing in fixing "vibe-coded" app performance, integrating on-device AI/LL
 
 ##
 
+### 🚀 Indie products
+*  [Price Localizer for Google Play](https://playpricing.dev) - Maximaze global app revenue
+*  [Sign PDF - PDF Signer](https://getpdfsigned.app) - Offline-first document signing & PDF Tool.
+*  [Screenshot Maker - NeonFrame](https://mobile-dev.pro) - Level up your social posts.
+*  [CloseTalk App Template](https://github.com/mobiledevpro/closetalk.app) - Android app template (**330+ ⭐ on GitHub**) - Kotlin, Compose, MVI, modularization.
+
+
 ### 🚀 Latest client projects
 *  [PDF Maker - Edit & Read PDF](https://play.google.com/store/apps/details?id=imagetopdf.pdfmaker.pdfscanner.pdfeditor.jpgtopdf) - Built from 0 to launch, hit **140k+ downloads**, 4.6★ rating, and 99.9% crash-free rate.
 *  [COMQUEST - EdTech Solution for Medical students](https://play.google.com/store/apps/details?id=exam.comquest.test) - Built from 0 to launch
-
-
-### 🚀 Indie products
-*  [Sign PDF - PDF Signer](https://getpdfsigned.app) - Offline-first document signing & PDF Tool.
-*  [Screenshot Maker - NeonFrame](https://mobile-dev.pro) - Level up your social posts.
-*  [CloseTalk App Template](https://github.com/mobiledevpro/closetalk.app) - Clean architecture Android app template (**330+ ⭐ on GitHub**).
 
 <!--
 ---
