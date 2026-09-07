@@ -6,14 +6,16 @@
 
 
 ### 👋 Hi, I'm Dmitri
-**10Y Native Android Engineer & Indie Maker** helping startups and SMBs translate ideas into high-performance, offline-first apps, integrate on-device AI / LLMs, and fix performance issues.
+**Android Engineer (10+ yrs) & Indie Founder** - Helping founders and product teams ship from 0 to launch.
+
+Specializing in fixing "vibe-coded" app performance, integrating on-device AI/LLM to cut cloud costs, and staying compliant with Google Play policies.
 
 
 ##
 ### :mailbox_with_mail: For business inquiries
 
 [![Email](https://img.shields.io/badge/-email-white?logo=gmail&logoColor=red&style=for-the-badge)](mailto:dmitriy.chernysh@mobile-dev.pro)
-   <a href="https://mobile-dev.pro/?utm_source=gh_mail&utm_medium=social&utm_campaign=portfolio"><img src="https://img.shields.io/badge/Portfolio-029791?style=for-the-badge" /></a>
+   <a href="https://mobile-dev.pro/?utm_source=gh_mail&utm_medium=social&utm_campaign=portfolio"><img src="https://img.shields.io/badge/Portfolio%20and%20Booking-029791?style=for-the-badge" /></a>
 
   
 
@@ -112,6 +114,7 @@
 <a href="https://mobile-dev.pro/?utm_source=gh_closetalk&utm_medium=social&utm_campaign=portfolio"><img src="https://img.shields.io/badge/mobile--dev.pro-029791?style=for-the-badge" /></a>
 [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dmitriychernysh/)
 [![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&style=for-the-badge)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
+[![Insagram](https://img.shields.io/badge/-instagram-e56969?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/mobiledevpro)
 [![Email](https://img.shields.io/badge/-Email-17273D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitriy.chernysh@mobile-dev.pro)
 
 
