@@ -15,7 +15,7 @@ Specializing in fixing "vibe-coded" app performance, integrating on-device AI/LL
 ### :mailbox_with_mail: For business inquiries
 
 [![Email](https://img.shields.io/badge/-email-white?logo=gmail&logoColor=red&style=for-the-badge)](mailto:dmitriy.chernysh@mobile-dev.pro)
-   <a href="https://mobile-dev.pro/?utm_source=gh_mail&utm_medium=social&utm_campaign=portfolio"><img src="https://img.shields.io/badge/Portfolio%20and%20Booking-029791?style=for-the-badge" /></a>
+   <a href="https://mobile-dev.pro/?utm_source=gh_main_profile&utm_medium=social&utm_campaign=portfolio"><img src="https://img.shields.io/badge/Portfolio%20and%20Booking-029791?style=for-the-badge" /></a>
 
   
 
@@ -112,7 +112,7 @@ Specializing in fixing "vibe-coded" app performance, integrating on-device AI/LL
 ##
 
 <a href="https://www.upwork.com/services/product/development-it-dmitriy-2014048029086121797"><img src="https://img.shields.io/badge/book%201:1%20consultation-14a800?style=for-the-badge" /></a>
-<a href="https://mobile-dev.pro/?utm_source=gh_closetalk&utm_medium=social&utm_campaign=portfolio"><img src="https://img.shields.io/badge/mobile--dev.pro-029791?style=for-the-badge" /></a>
+<a href="https://mobile-dev.pro/?utm_source=gh_main_profile&utm_medium=social&utm_campaign=portfolio"><img src="https://img.shields.io/badge/mobile--dev.pro-029791?style=for-the-badge" /></a>
 [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dmitriychernysh/)
 [![Youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&message=Youtube&style=for-the-badge)](https://www.youtube.com/@mobiledevpro?sub_confirmation=1&utm_source=github_main_profile)
 [![Insagram](https://img.shields.io/badge/-instagram-e56969?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/mobiledevpro)
