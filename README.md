@@ -8,7 +8,7 @@
 ### 👋 Hi, I'm Dmitri
 **Android Engineer (10+ yrs) & Indie Founder** - Helping founders and product teams ship from 0 to launch.
 
-Specializing in fixing "vibe-coded" app performance, integrating on-device AI/LLM to cut cloud costs, and staying compliant with Google Play policies.
+Specializing in building high-performance media, social, edTech, productivity and AI-powered tools with on-device AI/ML integration.
 
 
 ##
