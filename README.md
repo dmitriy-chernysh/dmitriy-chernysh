@@ -30,7 +30,7 @@ Specializing in building high-performance media, social, edTech, productivity an
 ##
 
 ### 🚀 Indie products
-*  [Price Localizer for Google Play](https://playpricing.dev/?utm_source=gh_main_profile&utm_medium=social&utm_campaign=app) - Maximaze global app revenue
+*  [Price Localizer for Google Play](https://playpricing.dev/?utm_source=gh_main_profile&utm_medium=social&utm_campaign=app) - Fix regional pricing to maximize global app revenue
 *  [Sign PDF - PDF Signer](https://getpdfsigned.app/?utm_source=gh_main_profile&utm_medium=social&utm_campaign=app) - Offline-first document signing & PDF Tool.
 *  [Screenshot Maker - NeonFrame](https://neonframe.app/?utm_source=gh_main_profile&utm_medium=social&utm_campaign=app) - Level up your social posts.
 *  [CloseTalk App Template](https://github.com/mobiledevpro/closetalk.app) - Android app template (**330+ ⭐ on GitHub**) - Kotlin, Compose, MVI, modularization.
